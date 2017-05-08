@@ -1,0 +1,29 @@
+{
+  "name": "charades-against-humanity",
+  "version": "1.0.0",
+  "description": "charades for evil people",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha && ./node_modules/.bin/eslint .",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGorilla/charades-against-humanity.git"
+  },
+  "author": "dwbrown@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevGorilla/charades-against-humanity/issues"
+  },
+  "homepage": "https://github.com/DevGorilla/charades-against-humanity#readme",
+  "devDependencies": {
+    "chai": "latest",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "latest",
+    "eslint": "latest",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "latest",
+    "mocha": "latest"
+  }
+}
