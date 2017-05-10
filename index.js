@@ -1,23 +1,16 @@
 /* eslint-disable no-use-before-define */
 /* eslint-disable no-console */
-const crypto = require('crypto')
-const moment = require('moment')
-const AWS = require('aws-sdk')
-
-const dynamodb = new AWS.DynamoDB()
-const docClient = new AWS.DynamoDB.DocumentClient()
-
+const moment = require('moment');
+const AWS = require('aws-sdk');
 const decks = require('./data/decks.json');
 const baseDeck = require('./data/base.json');
 const names = require('./data/names.json');
 
+const dynamodb = new AWS.DynamoDB();
+const docClient = new AWS.DynamoDB.DocumentClient();
+
 const TableName = 'cah_games';
 
-/*
-  What kind of interactions do I expect?
-  Select What Deck.
-  Select What 'level of evil'
-*/
 
 function handler(event, context) {
   let level = event.level;
@@ -25,12 +18,12 @@ function handler(event, context) {
   let gameName = event.game_name;
   if (!gameName) gameName = createGameName();
 
-  let gameObj = getGameObject(event.game_name);
+  const gameObj = getGameObject(event.game_name);
   if (gameObj.deck.length === 0) gameObj.deck = baseDeck;
-  let shuffledDeck = filterByLevel(shuffle(gameObj.deck), 0);
+  const shuffledDeck = filterByLevel(shuffle(gameObj.deck), 0);
 
   const returnedCard = shuffledDeck[0];
-  let tempDeck = shuffledDeck;
+  const tempDeck = shuffledDeck;
   tempDeck.splice(0, 1); // remove card being served from deck
   gameObj.deck = tempDeck; // set deck without card as deck
 
@@ -40,8 +33,7 @@ function handler(event, context) {
     .catch(console.log);
     */
 
-  context.done(null, returnedCard)
-
+  context.done(null, returnedCard);
 }
 
 
@@ -50,9 +42,9 @@ function inDynamo(inputKey) {
 }
 
 function getGameObject(gameName) {
-  let gameObj = {
+  const gameObj = {
     deck: baseDeck,
-    score: { team_a: 0, team_b: 0 }
+    score: { team_a: 0, team_b: 0 },
   };
 
   if (gameName) {
@@ -64,32 +56,32 @@ function getGameObject(gameName) {
 }
 
 function getDecks() {
-  const availableDecks = []
+  const availableDecks = [];
   Object.keys(decks.info).forEach((key) => {
     if (decks.info[key].name) {
       availableDecks.push(decks.info[key].name);
     }
-  })
+  });
   return availableDecks;
 }
 
 function getGames() {
   // TODO: look for a specific gameName
   dynamodb.scan({
-    TableName
+    TableName,
   }, (err, data) => {
-    context.done(null, data);
-  })
-
+    return err;
+  });
 }
 
-function shuffle(array) {
+function shuffle(input) {
+  const array = input;
   // Fisher-Yates
   let currentIndex = array.length;
   let temporaryValue;
   let randomIndex;
 
-  while (0 !== currentIndex) {
+  while (currentIndex !== 0) {
     randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex -= 1;
     temporaryValue = array[currentIndex];
@@ -100,22 +92,20 @@ function shuffle(array) {
 }
 
 function filterByLevel(array, level) {
-  let output = [];
+  const output = [];
   array.forEach((item) => {
-    if (item.level <= level) output.push(item.text)
-  })
+    if (item.level <= level) output.push(item.text);
+  });
   return output;
 }
 
 function createGameName() {
-  const firstName = names.adjectives[getRandomNumber(0, names.adjectives.length - 1)]
-  const lastName = names.animals[getRandomNumber(0, names.animals.length - 1)]
+  const firstName = names.adjectives[getRandomNumber(0, names.adjectives.length - 1)];
+  const lastName = names.animals[getRandomNumber(0, names.animals.length - 1)];
 
-  if (!inDynamo(`${firstName}-${lastName}`)) {
-    return `${firstName}-${lastName}`
-  } else {
-    createGameName(); //
-  }
+  if (!inDynamo(`${firstName}-${lastName}`)) return `${firstName}-${lastName}`;
+
+  createGameName();
 }
 
 function getRandomNumber(min, max) {
@@ -123,21 +113,21 @@ function getRandomNumber(min, max) {
 }
 
 function saveGame(gameName, gameObj) {
-  return new Promise(function(resolve, reject) {
+  return new Promise((resolve, reject) => {
     docClient.put({
       TableName,
       Item: {
         message: gameObj,
         game_name: gameName,
         created_at: moment().unix(),
-      }
-    }, (err, data) => {
+      },
+    }, (err) => {
       if (err) {
-        reject(err)
+        reject(err);
       } else {
-        resolve()
+        resolve();
       }
-    })
+    });
   });
 }
 
@@ -146,4 +136,4 @@ module.exports = {
   saveGame,
   shuffle,
   getGameObject,
-}
+};
