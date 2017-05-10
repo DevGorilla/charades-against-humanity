@@ -25,5 +25,9 @@
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "latest",
     "mocha": "latest"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.49.0",
+    "moment": "^2.18.1"
   }
 }

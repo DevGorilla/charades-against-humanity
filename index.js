@@ -14,7 +14,7 @@ const TableName = 'cah_games';
 
 function handler(event, context) {
   let level = event.level;
-  if (!level) level = 0;
+  if (!level) level = 4;
   let gameName = event.game_name;
   if (!gameName) gameName = createGameName();
 
@@ -125,6 +125,7 @@ function saveGame(gameName, gameObj) {
       if (err) {
         reject(err);
       } else {
+        console.log(`saved game ${gameName} to Dynamo`);
         resolve();
       }
     });
