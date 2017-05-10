@@ -12,7 +12,7 @@
         "text": "What's that smell?",
         "pick": 1
     }, {
-        "text": "This is the way the world ends \/ This is the way the world ends \/ Not with a bang but with _.",
+        "text": "This is the way the world ends / This is the way the world ends / Not with a bang but with _.",
         "pick": 1
     }, {
         "text": "What is Batman's guilty pleasure?",
@@ -225,7 +225,7 @@
         "text": "_ + _ = _.",
         "pick": 3
     }, {
-        "text": "What's the next superhero\/sidekick duo?",
+        "text": "What's the next superhero/sidekick duo?",
         "pick": 2
     }, {
         "text": "Dear Abby,<br><br>I'm having some trouble with _ and would like your advice.",
@@ -348,7 +348,7 @@
         "text": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
         "pick": 1
     }, {
-        "text": "My mom freaked out when she looked at my browser history and found _.com\/_.",
+        "text": "My mom freaked out when she looked at my browser history and found _.com/_.",
         "pick": 2
     }, {
         "text": "The Five Stages of Grief: denial, anger, bargaining, _, acceptance.",
@@ -399,7 +399,7 @@
         "text": "Before _, all we had was _.",
         "pick": 2
     }, {
-        "text": "Tonight on 20\/20: What you don't know about _ could kill you.",
+        "text": "Tonight on 20/20: What you don't know about _ could kill you.",
         "pick": 1
     }, {
         "text": "You haven't truly lived until you've experienced _ and _ at the same time.",
@@ -462,7 +462,7 @@
         "text": "Having problems with _? Try _!",
         "pick": 2
     }, {
-        "text": "And what did <i>you<\/i> bring for show and tell?",
+        "text": "And what did <i>you</i> bring for show and tell?",
         "pick": 1
     }, {
         "text": "I'm not like the rest of you. I'm too rich and busy for _.",
@@ -528,7 +528,7 @@
         "text": "I'm sorry, sir, but we don't allow _ at the country club.",
         "pick": 1
     }, {
-        "text": "2 AM in the city that never sleeps. The door swings open and <i>she<\/i> walks in, legs up to here. Something in her eyes tells me she's looking for _.",
+        "text": "2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for _.",
         "pick": 1
     }, {
         "text": "As king, how will I keep the peasants in line?",
@@ -537,7 +537,7 @@
         "text": "Oprah's book of the month is \"_ For _: A Story of Hope.\"",
         "pick": 2
     }, {
-        "text": "Do <i>not<\/i> fuck with me! I am literally _ right now.",
+        "text": "Do <i>not</i> fuck with me! I am literally _ right now.",
         "pick": 1
     }, {
         "text": "Adventure.<br>Romance.<br>_.<br><br>From Paramount Pictures, \"_.\"",
@@ -720,47 +720,2778 @@
         "pick": 1,
         "text": "If you had to describe the Card Czar, using only one of the cards in your hand, which one would it be?"
     }],
-    "whiteCards": ["Coat hanger abortions.", "Man meat.", "Autocannibalism.", "Vigorous jazz hands.", "Flightless birds.", "Pictures of boobs.", "Doing the right thing.", "The violation of our most basic human rights.", "Viagra&reg;.", "Self-loathing.", "Spectacular abs.", "A balanced breakfast.", "Roofies.", "Concealing a boner.", "Amputees.", "The Big Bang.", "Former President George W. Bush.", "The Rev. Dr. Martin Luther King, Jr.", "Smegma.", "Being marginalized.", "Cuddling.", "Laying an egg.", "The Pope.", "Aaron Burr.", "Genital piercings.", "Fingering.", "A bleached asshole.", "Horse meat.", "Fear itself.", "Science.", "Elderly Japanese men.", "Stranger danger.", "The terrorists.", "Praying the gay away.", "Same-sex ice dancing.", "Ethnic cleansing.", "Cheating in the Special Olympics.", "German dungeon porn.", "Bingeing and purging.", "Making a pouty face.", "William Shatner.", "Heteronormativity.", "Nickelback.", "Tom Cruise.", "The profoundly handicapped.", "The placenta.", "Chainsaws for hands.", "Arnold Schwarzenegger.", "An icepick lobotomy.", "Goblins.", "Object permanence.", "Dying.", "Foreskin.", "A falcon with a cap on its head.", "Hormone injections.", "Dying of dysentery.", "Sexy pillow fights.", "The invisible hand.", "A really cool hat.", "Sean Penn.", "Heartwarming orphans.", "The clitoris.", "The Three-Fifths compromise.", "A sad handjob.", "Men.", "Historically black colleges.", "A micropenis.", "Raptor attacks.", "Agriculture.", "Vikings.", "Pretending to care.", "The Underground Railroad.", "My humps.", "Being a dick to children.", "Geese.", "Bling.", "Sniffing glue.", "The South.", "An Oedipus complex.", "Eating all of the cookies before the AIDS bake-sale.", "Sexting.", "YOU MUST CONSTRUCT ADDITIONAL PYLONS.", "Mutually-assured destruction.", "Sunshine and rainbows.", "Count Chocula.", "Sharing needles.", "Being rich.", "Skeletor.", "A sausage festival.", "Michael Jackson.", "Emotions.", "Farting and walking away.", "The Chinese gymnastics team.", "Necrophilia.", "Spontaneous human combustion.", "Yeast.", "Leaving an awkward voicemail.", "Dick Cheney.", "White people.", "Penis envy.", "Teaching a robot to love.", "Sperm whales.", "Scrubbing under the folds.", "Panda sex.", "Whipping it out.", "Catapults.", "Masturbation.", "Natural selection.", "Opposable thumbs.", "A sassy black woman.", "AIDS.", "The KKK.", "Figgy pudding.", "Seppuku.", "Gandhi.", "Preteens.", "Toni Morrison's vagina.", "Five-Dollar Footlongs&trade;.", "Land mines.", "A sea of troubles.", "A zesty breakfast burrito.", "Christopher Walken.", "Friction.", "Balls.", "Dental dams.", "A can of whoop-ass.", "A tiny horse.", "Waiting 'til marriage.", "Authentic Mexican cuisine.", "Genghis Khan.", "Old-people smell.", "Feeding Rosie O'Donnell.", "Pixelated bukkake.", "Friends with benefits.", "The token minority.", "The Tempur-Pedic&reg; Swedish Sleep System&trade;.", "A thermonuclear detonation.", "Take-backsies.", "The Rapture.", "A cooler full of organs.", "Sweet, sweet vengeance.", "RoboCop.", "Keanu Reeves.", "Drinking alone.", "Giving 110%.", "Flesh-eating bacteria.", "The American Dream.", "Taking off your shirt.", "Me time.", "A murder most foul.", "The inevitable heat death of the universe.", "The folly of man.", "That thing that electrocutes your abs.", "Cards Against Humanity.", "Fiery poops.", "Poor people.", "Edible underpants.", "Britney Spears at 55.", "All-you-can-eat shrimp for $4.99.", "Pooping back and forth. Forever.", "Fancy Feast&reg;.", "Jewish fraternities.", "Being a motherfucking sorcerer.", "Pulling out.", "Picking up girls at the abortion clinic.", "The homosexual agenda.", "The Holy Bible.", "Passive-agression.", "Ronald Reagan.", "Vehicular manslaughter.", "Nipple blades.", "Assless chaps.", "Full frontal nudity.", "Hulk Hogan.", "Daddy issues.", "The hardworking Mexican.", "Natalie Portman.", "Waking up half-naked in a Denny's parking lot.", "God.", "Sean Connery.", "Saxophone solos.", "Gloryholes.", "The World of Warcraft.", "Homeless people.", "Scalping.", "Darth Vader.", "Eating the last known bison.", "Guys who don't call.", "Hot Pockets&reg;.", "A time travel paradox.", "The milk man.", "Testicular torsion.", "Dropping a chandelier on your enemies and riding the rope up.", "World peace.", "A salty surprise.", "Poorly-timed Holocaust jokes.", "Smallpox blankets.", "Licking things to claim them as your own.", "The heart of a child.", "Robert Downey, Jr.", "Lockjaw.", "Eugenics.", "A good sniff.", "Friendly fire.", "The taint; the grundle; the fleshy fun-bridge.", "Wearing underwear inside-out to avoid doing laundry.", "Hurricane Katrina.", "Free samples.", "Jerking off into a pool of children's tears.", "A foul mouth.", "The glass ceiling.", "Republicans.", "Explosions.", "Michelle Obama's arms.", "Getting really high.", "Attitude.", "Sarah Palin.", "The &Uuml;bermensch.", "Altar boys.", "My soul.", "My sex life.", "Pedophiles.", "72 virgins.", "Pabst Blue Ribbon.", "Domino's&trade; Oreo&trade; Dessert Pizza.", "A snapping turtle biting the tip of your penis.", "The Blood of Christ.", "Half-assed foreplay.", "My collection of high-tech sex toys.", "A middle-aged man on roller skates.", "Bitches.", "Bill Nye the Science Guy.", "Italians.", "A windmill full of corpses.", "Adderall&trade;.", "Crippling debt.", "A stray pube.", "Prancing.", "Passing a kidney stone.", "A brain tumor.", "Leprosy.", "Puppies!", "Bees?", "Frolicking.", "Repression.", "Road head.", "A bag of magic beans.", "An asymmetric boob job.", "Dead parents.", "Public ridicule.", "A mating display.", "A mime having a stroke.", "Stephen Hawking talking dirty.", "African children.", "Mouth herpes.", "Overcompensation.", "Riding off into the sunset.", "Being on fire.", "Tangled Slinkys.", "Civilian casualties.", "Auschwitz.", "My genitals.", "Not reciprocating oral sex.", "Lactation.", "Being fabulous.", "Shaquille O'Neal's acting career.", "My relationship status.", "Asians who aren't good at math.", "Alcoholism.", "Incest.", "Grave robbing.", "Hope.", "8 oz. of sweet Mexican black-tar heroin.", "Kids with ass cancer.", "Winking at old people.", "The Jews.", "Justin Bieber.", "Doin' it in the butt.", "A lifetime of sadness.", "The Hamburglar.", "Swooping.", "Classist undertones.", "New Age music.", "Not giving a shit about the Third World.", "The Kool-Aid Man.", "A hot mess.", "Tentacle porn.", "Lumberjack fantasies.", "The gays.", "Scientology.", "Estrogen.", "GoGurt&reg;.", "Judge Judy.", "Dick fingers.", "Racism.", "Surprise sex!", "Police brutality.", "Passable transvestites.", "The Virginia Tech Massacre.", "When you fart and a little bit comes out.", "Oompa-Loompas.", "A fetus.", "Obesity.", "Tasteful sideboob.", "Hot people.", "BATMAN!!!", "Black people.", "A gassy antelope.", "Sexual tension.", "Third base.", "Racially-biased SAT questions.", "Porn stars.", "A Super Soaker&trade; full of cat pee.", "Muhammed (Praise Be Unto Him).", "Puberty.", "A disappointing birthday party.", "An erection that lasts longer than four hours.", "White privilege.", "Getting so angry that you pop a boner.", "Wifely duties.", "Two midgets shitting into a bucket.", "Queefing.", "Wiping her butt.", "Golden showers.", "Barack Obama.", "Nazis.", "A robust mongoloid.", "An M. Night Shyamalan plot twist.", "Getting drunk on mouthwash.", "Lunchables&trade;.", "Women in yogurt commercials.", "John Wilkes Booth.", "Powerful thighs.", "Mr. Clean, right behind you.", "Multiple stab wounds.", "Cybernetic enhancements.", "Serfdom.", "Kanye West.", "Women's suffrage.", "Children on leashes.", "Harry Potter erotica.", "The Dance of the Sugar Plum Fairy.", "Lance Armstrong's missing testicle.", "Parting the Red Sea.", "The Amish.", "Dead babies.", "Child beauty pageants.", "AXE Body Spray.", "Centaurs.", "Copping a feel.", "Grandma.", "Famine.", "The Trail of Tears.", "The miracle of childbirth.", "Finger painting.", "A monkey smoking a cigar.", "The Make-A-Wish&reg; Foundation.", "Anal beads.", "The Force.", "Kamikaze pilots.", "Dry heaving.", "Active listening.", "Ghosts.", "The Hustle.", "Peeing a little bit.", "Another goddamn vampire movie.", "Shapeshifters.", "The Care Bear Stare.", "Hot cheese.", "A mopey zoo lion.", "A defective condom.", "Teenage pregnancy.", "A Bop It&trade;.", "Expecting a burp and vomiting on the floor.", "Horrifying laser hair removal accidents.", "Boogers.", "Unfathomable stupidity.", "Breaking out into song and dance.", "Soup that is too hot.", "Morgan Freeman's voice.", "Getting naked and watching Nickelodeon.", "MechaHitler.", "Flying sex snakes.", "The true meaning of Christmas.", "My inner demons.", "Pac-Man uncontrollably guzzling cum.", "My vagina.", "A homoerotic volleyball montage.", "Actually taking candy from a baby.", "Crystal meth.", "Exactly what you'd expect.", "Natural male enhancement.", "Passive-aggressive Post-it notes.", "Inappropriate yodeling.", "Lady Gaga.", "The Little Engine That Could.", "Vigilante justice.", "A death ray.", "Poor life choices.", "A gentle caress of the inner thigh.", "Embryonic stem cells.", "Nicolas Cage.", "Firing a rifle into the air while balls deep in a squealing hog.", "Switching to Geico&reg;.", "The chronic.", "Erectile dysfunction.", "Home video of Oprah sobbing into a Lean Cuisine&reg;.", "A bucket of fish heads.", "50,000 volts straight to the nipples.", "Being fat and stupid.", "Hospice care.", "A pyramid of severed heads.", "Getting married, having a few kids, buying some stuff, retiring to Florida, and dying.", "A subscription to Men's Fitness.", "Crucifixion.", "A micropig wearing a tiny raincoat and booties.", "Some god-damn peace and quiet.", "Used panties.", "A tribe of warrior women.", "The penny whistle solo from \"My Heart Will Go On.\"", "An oversized lollipop.", "Helplessly giggling at the mention of Hutus and Tutsis.", "Not wearing pants.", "Consensual sex.", "Her Majesty, Queen Elizabeth II.", "Funky fresh rhymes.", "The art of seduction.", "The Devil himself.", "Advice from a wise, old black man.", "Destroying the evidence.", "The light of a billion suns.", "Wet dreams.", "Synergistic management solutions.", "Growing a pair.", "Silence.", "An M16 assault rifle.", "Poopy diapers.", "A live studio audience.", "The Great Depression.", "A spastic nerd.", "Rush Limbaugh's soft, shitty body.", "Tickling Sean Hannity, even after he tells you to stop.", "Stalin.", "Brown people.", "Rehab.", "Capturing Newt Gingrich and forcing him to dance in a monkey suit.", "Battlefield amputations.", "An uppercut.", "Shiny objects.", "An ugly face.", "Menstrual rage.", "A bitch slap.", "One trillion dollars.", "Chunks of dead prostitute.", "The entire Mormon Tabernacle Choir.", "The female orgasm.", "Extremely tight pants.", "The Boy Scouts of America.", "Stormtroopers.", "Throwing a virgin into a volcano.", "Getting in her pants, politely.", "Gladiatorial combat.", "Good grammar.", "Hipsters.", "Gandalf.", "Genetically engineered super-soldiers.", "George Clooney's musk.", "Getting abducted by Peter Pan.", "Eating an albino.", "Enormous Scandinavian women.", "Fabricating statistics.", "Finding a skeleton.", "Suicidal thoughts.", "Dancing with a broom.", "Deflowering the princess.", "Dorito breath.", "One thousand Slim Jims.", "My machete.", "Overpowering your father.", "Ominous background music.", "Media coverage.", "Making the penises kiss.", "Moral ambiguity.", "Medieval Times&reg; Dinner &amp; Tournament.", "Mad hacky-sack skills.", "Just the tip.", "Literally eating shit.", "Leveling up.", "Insatiable bloodlust.", "Historical revisionism.", "Jean-Claude Van Damme.", "Jafar.", "The boners of the elderly.", "The economy.", "Statistically validated stereotypes.", "Sudden Poop Explosion Disease.", "Slow motion.", "Space muffins.", "Sexual humiliation.", "Sexy Siamese twins.", "Santa Claus.", "Scrotum tickling.", "Ripping into a man's chest and pulling out his still-beating heart.", "Ryan Gosling riding in on a white horse.", "Quivering jowls.", "Revenge fucking.", "Pistol-whipping a hostage.", "Quiche.", "Zeus's sexual appetites.", "Words, words, words.", "Tripping balls.", "Being a busy adult with many important things to do.", "The four arms of Vishnu.", "The shambling corpse of Larry King.", "The hiccups.", "The harsh light of day.", "The Gulags.", "The Fanta&reg; girls.", "A big black dick.", "A beached whale.", "A low standard of living.", "A nuanced critique.", "A bloody pacifier.", "A crappy little hand.", "Shaft.", "Being a dinosaur.", "Beating your wives.", "Neil Patrick Harris.", "Coughing into a vagina.", "Carnies.", "Nubile slave boys.", "Bosnian chicken farmers.", "A web of lies.", "A rival dojo.", "A passionate Latino lover.", "Panty raids.", "Appreciative snapping.", "Apologizing.", "Clams.", "A woman scorned.", "Being awesome at sex.", "Spring break!", "Another shot of morphine.", "Dining with cardboard cutouts of the cast of \"Friends.\"", "A soulful rendition of \"Ol' Man River.\"", "Making a friend.", "A sweaty, panting leather daddy.", "Intimacy problems.", "The new Radiohead album.", "Pretty Pretty Princess Dress-Up Board Game&reg;.", "A man in yoga pants with a ponytail and feather earrings.", "An army of skeletons.", "A squadron of moles wearing aviator goggles.", "Beefin' over turf.", "The Google.", "Bullshit.", "A sweet spaceship.", "A 55-gallon drum of lube.", "Special musical guest, Cher.", "The human body.", "Mild autism.", "Nunchuck moves.", "Whipping a disobedient slave.", "An ether-soaked rag.", "Oncoming traffic.", "A dollop of sour cream.", "A slightly shittier parallel universe.", "My first kill.", "Boris the Soviet Love Hammer.", "The grey nutrient broth that sustains Mitt Romney.", "Tiny nipples.", "Power.", "Death by Steven Seagal.", "A Burmese tiger pit.", "Basic human decency.", "Grandpa's ashes.", "One Ring to rule them all.", "The day the birds attacked.", "Fetal alcohol syndrome.", "Graphic violence, adult language, and some sexual content.", "A bigger, blacker dick.", "The mere concept of Applebee's&reg;.", "A sad fat dragon with no friends.", "A pi&ntilde;ata full of scorpions.", "Existing.", "Hillary Clinton's death stare.", "Catastrophic urethral trauma.", "Double penetration.", "Daddy's belt.", "Swiftly achieving orgasm.", "Mooing.", "Rising from the grave.", "Subduing a grizzly bear and making her your wife.", "Some really fucked-up shit.", "Weapons-grade plutonium.", "All of this blood.", "Scrotal frostbite.", "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.", "The mixing of the races.", "Pumping out a baby every nine months.", "Tongue.", "Loki, the trickster god.", "Whining like a little bitch.", "Wearing an octopus for a hat.", "An unhinged ferris wheel rolling toward the sea.", "Finding Waldo.", "Upgrading homeless people to mobile hotspots.", "A magic hippie love cloud.", "Fuck Mountain.", "Living in a trashcan.", "The corporations.", "Getting hilariously gang-banged by the Blue Man Group.", "Jeff Goldblum.", "Survivor's guilt.", "Me.", "All my friends dying.", "Shutting the fuck up.", "An ass disaster.", "Some kind of bird-man.", "The entire Internet.", "Going around punching people.", "A boo-boo.", "Indescribable loneliness.", "Having sex on top of a pizza.", "Chugging a lava lamp.", "Warm, velvety muppet sex.", "Running naked through a mall, pissing and shitting everywhere.", "Nothing.", "Samuel L. Jackson.", "Self-flagellation.", "The systematic destruction of an entire people and their way of life.", "The Quesadilla Explosion Salad&trade; from Chili's&reg;.", "Reverse cowgirl.", "Vietnam flashbacks.", "Actually getting shot, for real.", "Not having sex.", "Cock.", "Dying alone and in pain.", "A cop who is also a dog.", "The way white people is.", "Gay aliens.", "The primal, ball-slapping sex your parents are having right now.", "A cat video so cute that your eyes roll back and your spine slides out of your anus.", "A lamprey swimming up the toilet and latching onto your taint.", "Slapping a racist old lady.", "A black male in his early 20s, last seen wearing a hoodie.", "Jumping out at people.", "Three months in the hole.", "Blood farts.", "The Land of Chocolate.", "A botched circumcision.", "My manservant, Claude.", "Vomiting mid-blowjob.", "Letting everyone down.", "Having shotguns for legs.", "Bill Clinton, naked on a bearskin rug with a saxophone.", "Mufasa's death scene.", "The Harlem Globetrotters.", "Demonic possession.", "Fisting.", "The thin veneer of situational causality that underlies porn.", "Girls that always be textin'.", "Blowing some dudes in an alley.", "A spontaneous conga line.", "A vagina that leads to another dimension.", "Disco fever.", "Getting your dick stuck in a Chinese finger trap with another dick.", "Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy.", "Sneezing, farting, and coming at the same time.", "Some douche with an acoustic guitar.", "Spending lots of money.", "Putting an entire peanut butter and jelly sandwich into the VCR.", "An unstoppable wave of fire ants.", "A greased-up Matthew McConaughey.", "Flying robots that kill people.", "Unlimited soup, salad, and breadsticks.", "Crying into the pages of Sylvia Plath.", "The moist, demanding chasm of his mouth.", "Filling every orifice with butterscotch pudding.", "An all-midget production of Shakespeare's <i>Richard III<\/i>.", "Screaming like a maniac.", "Not contributing to society in any meaningful way.", "A pile of squirming bodies.", "Buying the right pants to be cool.", "Roland the Farter, flatulist to the king.", "That ass.", "A surprising amount of hair.", "Eating Tom Selleck's mustache to gain his powers.", "Velcro&trade;.", "A PowerPoint presentation.", "Crazy opium eyes.", "10 Incredible Facts About the Anus.", "An interracial handshake.", "Moderate-to-severe joint pain.", "Finally finishing off the Indians.", "Sugar madness.", "Actual mutants with medical conditions and no superpowers.", "The secret formula for ultimate female satisfaction.", "The complex geopolitical quagmire that is the Middle East.", "Fucking a corpse back to life.", "Neil Diamond's Greatest Hits.", "Calculating every mannerism so as not to suggest homosexuality.", "Whatever a McRib&reg; is made of.", "No clothes on, penis in vagina.", "All the single ladies.", "Whispering all sexy.", "How awesome I am.", "Ass to mouth.", "Smoking crack, for instance.", "Falling into the toilet.", "A dance move that's just sex.", "The size of my penis.", "Some sort of Asian.", "A hopeless amount of spiders.", "Party Mexicans.", "Drinking responsibly.", "The safe word.", "Angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night.", "Bouncing up and down.", "Jizz.", "Ambiguous sarcasm.", "A shiny rock that proves I love you.", "Dem titties.", "My worthless son.", "Exploding pigeons.", "A Ugandan warlord.", "My sex dungeon.", "A kiss on the lips.", "Child Protective Services.", "A Native American who solves crimes by going into the spirit world.", "Doo-doo.", "The peaceful and nonthreatening rise of China.", "Sports.", "A fart.", "Unquestioning obedience.", "Three consecutive seconds of happiness.", "Grammar nazis who are also regular Nazis.", "Snorting coke off a clown's boner.", "Africa.", "Depression.", "A horse with no legs.", "The euphoric rush of strangling a drifter.", "Khakis.", "Interspecies marriage.", "A gender identity that can only be conveyed through slam poetry.", "Almost giving money to a homeless person.", "Stuff a child's face with Fun Dip&reg; until he starts having fun.", "What Jesus would do.", "A for-real lizard that spits blood from its eyes.", "Blackula.", "The tiniest shred of evidence that God is real.", "My dad's dumb fucking face.", "Prince Ali,<br>fabulous he,<br>Ali Ababwa.", "A manhole.", "A sex goblin with a carnival penis.", "A bunch of idiots playing a card game instead of interacting like normal humans.", "A sex comet from Neptune that plunges the Earth into eternal sexiness.", "Sharks with legs.", "Injecting speed into one arm and horse tranquilizer into the other.", "Lots and lots of abortions.", "Seeing things from Hitler's perspective", "Too much cocaine.", "Doing the right stuff to her nipples.", "Giant sperm from outer space.", "Oil!", "Ennui.", "A powered exoskeleton.", "A disappointing salad.", "Mom's new boyfriend.", "Unrelenting genital punishment.", "Denzel.", "The swim team, all at once.", "The eight gay warlocks who dictate the rules of fashion.", "Being nine years old.", "The unbelievable world of mushrooms.", "The Abercrombie &amp; Fitch lifestyle.", "Vegetarian options.", "My first period.", "Having been dead for a while.", "Backwards knees.", "Being paralyzed from the neck down.", "Seeing my village burned and my family slaughtered before my eyes.", "A zero-risk way to make $2,000 from home.", "A crazy little thing called love.", "Ancient Athenian boy-fucking", "Out-of-this-world bazongas.", "The ghost of Marlon Brando.", "The basic suffering that pervades all of existence.", "Being worshipped as the one true God.", "Figuring out how to have sex with a dolphin.", "All these decorative pillows.", "A mouthful of potato salad.", "Russian super-tuberculosis.", "A reason not to commit suicide.", "Going to a high school reunion on ketamine.", "The passage of time.", "Child support payments.", "Changing a person's mind with logic and facts.", "My boyfriend's stupid penis.", "The tiger that killed my father.", "Genghis Khan's DNA.", "Boring vaginal sex.", "40 acres and a mule.", "A whole new kind of porn.", "Slowly easing down onto a cucumber.", "Wearing glasses and sounding smart.", "AIDS monkeys.", "A team of lawyers.", "Getting drive-by shot.", "Not believing in giraffes.", "Anal fissures like you wouldn't believe.", "A giant powdery manbaby.", "Cutting off a flamingo's legs with garden shears.", "P.F. Chang himself.", "An uninterrupted history of imperialism and exploitation.", "A one-way ticket to Gary, Indiana.", "Daddy's credit card.", "September 11th, 2001.", "An unforgettable quincea&ntilde;era.", "Deez nuts.", "Social justice warriors with flamethrowers of compassion.", "Some shit-hot guitar licks.", "Butt stuff.", "Blackface.", "Blowjobs for everyone.", "Getting eaten alive by Guy Fieri.", "Western standards of beauty.", "Ejaculating live bees and the bees are angry.", "My dead son's baseball glove.", "Getting caught by the police and going to jail.", "A face full of horse cum.", "Free ice cream, yo.", "The white half of Barack Obama.", "The black half of Barack Obama.", "An inability to form meaningful relationships.", "A bass drop so huge it tears the starry vault asunder to reveal the face of God.", "Growing up chained to a radiator in perpetual darkness.", "Shitting all over the floor like a bad, bad girl.", "A buttload of candy.", "Sucking all the milk out of a yak.", "Bullets.", "A man who is so cool that he rides on a motorcycle.", "Sudden penis loss.", "Getting all offended.", "Crying and shitting and eating spaghetti.", "One unforgettable night of passion.", "Being popular and good at sports.", "Filling a man's anus with concrete.", "Two whales fucking the shit out of eachother.", "Cool, relateable cancer teens.", "The amount of gay I am.", "A possible Muslim.", "Unsheathing my massive horse cock.", "A bowl of gourds.", "The male gaze.", "The power of the Dark Side.", "Ripping a dog in half.", "A constant need for validation.", "Meaningless sex.", "Such a big boy.", "Throwing stones at a man until he dies.", "Cancer.", "Like a million alligators.", "Eating together like a god damn family for once.", "Cute boys.", "Pussy.", "Being a terrible mother.", "Never having sex again.", "A pizza guy who fucked up.", "A whole lotta woman.", "The all-new Nissan Pathfinder with 0.9% APR financing!", "A peyote-fueled vision quest.", "Kale.", "Breastfeeding a ten year old.", "Crippling social anxiety.", "Immortality cream.", "Texas.", "Teaching a girl how to handjob the penis.", "A turd.", "Shapes and colors.", "Whatever you wish, mother.", "The haunting stare of an Iraqi child.", "Robots who just want to party.", "A self-microwaving burrito.", "Forgetting grandma's first name.", "Our new Buffalo Chicken Dippers&reg;!", "Treasures beyond your wildest dreams.", "Getting shot out of a cannon.", "The sweet song of sword against and the braying of mighty war beasts.", "Walking into a glass door.", "The color \"puce\".", "Every ounce of charisma left in Mick Jagger's tired body.", "The eighth graders.", "Setting my balls on fire and cartwheeling to Ohio.", "The dentist.", "Gwyneth Paltrow's opinions.", "Turning the rivers red with the blood of infidels.", "Rabies.", "Important news about Taylor Swift.", "Ejaculating inside another man's wife.", "Owls, the perfect predator.", "Being John Malkovich.", "Bathing in moonsblood and dancing around the ancient oak.", "An oppressed people with a vibrant culture.", "An overwhelming variety of cheeses.", "Reading the entire End-User License Agreement.", "Morpheus.", "Peeing into a girl's butt to make a baby.", "Generally having no idea of what's going on.", "No longer finding any Cards Against Humanity card funny."],
-    "Base": {
-        "name": "Base Set",
-        "black": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
-        "white": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459]
-    },
-    "CAHe1": {
-        "name": "The First Expansion",
-        "black": [90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109],
-        "white": [460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539],
-        "icon": 1
-    },
-    "CAHe2": {
-        "name": "The Second Expansion",
-        "black": [110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134],
-        "white": [540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614],
-        "icon": 2
-    },
-    "CAHe3": {
-        "name": "The Third Expansion",
-        "black": [135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159],
-        "white": [615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689],
-        "icon": 3
-    },
-    "CAHe4": {
-        "name": "The Fourth Expansion",
-        "black": [160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189],
-        "white": [690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759],
-        "icon": 4
-    },
-    "CAHe5": {
-        "name": "The Fifth Expansion",
-        "black": [190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214],
-        "white": [760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834],
-        "icon": 5
-    },
-    "CAHe6": {
-        "name": "The Sixth Expansion",
-        "black": [215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239],
-        "white": [835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909],
-        "icon": 6
-    },
-    "order": ["Base", "CAHe1", "CAHe2", "CAHe3", "CAHe4", "CAHe5", "CAHe6"]
+    "whiteCards": [{
+        "text": "Coat hanger abortions.",
+        "level": 4
+    }, {
+        "text": "Man meat.",
+        "level": 0
+    }, {
+        "text": "Autocannibalism.",
+        "level": 0
+    }, {
+        "text": "Vigorous jazz hands.",
+        "level": 0
+    }, {
+        "text": "Flightless birds.",
+        "level": 0
+    }, {
+        "text": "Pictures of boobs.",
+        "level": 1
+    }, {
+        "text": "Doing the right thing.",
+        "level": 0
+    }, {
+        "text": "The violation of our most basic human rights.",
+        "level": 0
+    }, {
+        "text": "Viagra&reg;.",
+        "level": 1
+    }, {
+        "text": "Self-loathing.",
+        "level": 0
+    }, {
+        "text": "Spectacular abs.",
+        "level": 0
+    }, {
+        "text": "A balanced breakfast.",
+        "level": 0
+    }, {
+        "text": "Roofies.",
+        "level": 1
+    }, {
+        "text": "Concealing a boner.",
+        "level": 1
+    }, {
+        "text": "Amputees.",
+        "level": 0
+    }, {
+        "text": "The Big Bang.",
+        "level": 0
+    }, {
+        "text": "Former President George W. Bush.",
+        "level": 0
+    }, {
+        "text": "The Rev. Dr. Martin Luther King, Jr.",
+        "level": 0
+    }, {
+        "text": "Smegma.",
+        "level": 4
+    }, {
+        "text": "Being marginalized.",
+        "level": 0
+    }, {
+        "text": "Cuddling.",
+        "level": 0
+    }, {
+        "text": "Laying an egg.",
+        "level": 0
+    }, {
+        "text": "The Pope.",
+        "level": 0
+    }, {
+        "text": "Aaron Burr.",
+        "level": 0
+    }, {
+        "text": "Genital piercings.",
+        "level": 3
+    }, {
+        "text": "Fingering.",
+        "level": 3
+    }, {
+        "text": "A bleached asshole.",
+        "level": 3
+    }, {
+        "text": "Horse meat.",
+        "level": 0
+    }, {
+        "text": "Fear itself.",
+        "level": 0
+    }, {
+        "text": "Science.",
+        "level": 0
+    }, {
+        "text": "Elderly Japanese men.",
+        "level": 1
+    }, {
+        "text": "Stranger danger.",
+        "level": 1
+    }, {
+        "text": "The terrorists.",
+        "level": 1
+    }, {
+        "text": "Praying the gay away.",
+        "level": 0
+    }, {
+        "text": "Same-sex ice dancing.",
+        "level": 0
+    }, {
+        "text": "Ethnic cleansing.",
+        "level": 2
+    }, {
+        "text": "Cheating in the Special Olympics.",
+        "level": 0
+    }, {
+        "text": "German dungeon porn.",
+        "level": 2
+    }, {
+        "text": "Bingeing and purging.",
+        "level": 0
+    }, {
+        "text": "Making a pouty face.",
+        "level": 0
+    }, {
+        "text": "William Shatner.",
+        "level": 0
+    }, {
+        "text": "Heteronormativity.",
+        "level": 0
+    }, {
+        "text": "Nickelback.",
+        "level": 0
+    }, {
+        "text": "Tom Cruise.",
+        "level": 0
+    }, {
+        "text": "The profoundly handicapped.",
+        "level": 1
+    }, {
+        "text": "The placenta.",
+        "level": 1
+    }, {
+        "text": "Chainsaws for hands.",
+        "level": 0
+    }, {
+        "text": "Arnold Schwarzenegger.",
+        "level": 0
+    }, {
+        "text": "An icepick lobotomy.",
+        "level": 1
+    }, {
+        "text": "Goblins.",
+        "level": 0
+    }, {
+        "text": "Object permanence.",
+        "level": 0
+    }, {
+        "text": "Dying.",
+        "level": 0
+    }, {
+        "text": "Foreskin.",
+        "level": 2
+    }, {
+        "text": "A falcon with a cap on its head.",
+        "level": 0
+    }, {
+        "text": "Hormone injections.",
+        "level": 1
+    }, {
+        "text": "Dying of dysentery.",
+        "level": 0
+    }, {
+        "text": "Sexy pillow fights.",
+        "level": 0
+    }, {
+        "text": "The invisible hand.",
+        "level": 2
+    }, {
+        "text": "A really cool hat.",
+        "level": 0
+    }, {
+        "text": "Sean Penn.",
+        "level": 0
+    }, {
+        "text": "Heartwarming orphans.",
+        "level": 0
+    }, {
+        "text": "The clitoris.",
+        "level": 4
+    }, {
+        "text": "The Three-Fifths compromise.",
+        "level": 0
+    }, {
+        "text": "A sad handjob.",
+        "level": 4
+    }, {
+        "text": "Men.",
+        "level": 0
+    }, {
+        "text": "Historically black colleges.",
+        "level": 1
+    }, {
+        "text": "A micropenis.",
+        "level": 4
+    }, {
+        "text": "Raptor attacks.",
+        "level": 0
+    }, {
+        "text": "Agriculture.",
+        "level": 0
+    }, {
+        "text": "Vikings.",
+        "level": 0
+    }, {
+        "text": "Pretending to care.",
+        "level": 0
+    }, {
+        "text": "The Underground Railroad.",
+        "level": 0
+    }, {
+        "text": "My humps.",
+        "level": 0
+    }, {
+        "text": "Being a dick to children.",
+        "level": 0
+    }, {
+        "text": "Geese.",
+        "level": 0
+    }, {
+        "text": "Bling.",
+        "level": 0
+    }, {
+        "text": "Sniffing glue.",
+        "level": 0
+    }, {
+        "text": "The South.",
+        "level": 0
+    }, {
+        "text": "An Oedipus complex.",
+        "level": 0
+    }, {
+        "text": "Eating all of the cookies before the AIDS bake-sale.",
+        "level": 1
+    }, {
+        "text": "Sexting.",
+        "level": 1
+    }, {
+        "text": "YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
+        "level": 0
+    }, {
+        "text": "Mutually-assured destruction.",
+        "level": 0
+    }, {
+        "text": "Sunshine and rainbows.",
+        "level": 0
+    }, {
+        "text": "Count Chocula.",
+        "level": 0
+    }, {
+        "text": "Sharing needles.",
+        "level": 0
+    }, {
+        "text": "Being rich.",
+        "level": 0
+    }, {
+        "text": "Skeletor.",
+        "level": 0
+    }, {
+        "text": "A sausage festival.",
+        "level": 0
+    }, {
+        "text": "Michael Jackson.",
+        "level": 1
+    }, {
+        "text": "Emotions.",
+        "level": 0
+    }, {
+        "text": "Farting and walking away.",
+        "level": 0
+    }, {
+        "text": "The Chinese gymnastics team.",
+        "level": 0
+    }, {
+        "text": "Necrophilia.",
+        "level": 4
+    }, {
+        "text": "Spontaneous human combustion.",
+        "level": 0
+    }, {
+        "text": "Yeast.",
+        "level": 0
+    }, {
+        "text": "Leaving an awkward voicemail.",
+        "level": 0
+    }, {
+        "text": "Dick Cheney.",
+        "level": 0
+    }, {
+        "text": "White people.",
+        "level": 0
+    }, {
+        "text": "Penis envy.",
+        "level": 3
+    }, {
+        "text": "Teaching a robot to love.",
+        "level": 0
+    }, {
+        "text": "Sperm whales.",
+        "level": 2
+    }, {
+        "text": "Scrubbing under the folds.",
+        "level": 0
+    }, {
+        "text": "Panda sex.",
+        "level": 3
+    }, {
+        "text": "Whipping it out.",
+        "level": 3
+    }, {
+        "text": "Catapults.",
+        "level": 0
+    }, {
+        "text": "Masturbation.",
+        "level": 4
+    }, {
+        "text": "Natural selection.",
+        "level": 0
+    }, {
+        "text": "Opposable thumbs.",
+        "level": 0
+    }, {
+        "text": "A sassy black woman.",
+        "level": 1
+    }, {
+        "text": "AIDS.",
+        "level": 4
+    }, {
+        "text": "The KKK.",
+        "level": 4
+    }, {
+        "text": "Figgy pudding.",
+        "level": 0
+    }, {
+        "text": "Seppuku.",
+        "level": 2
+    }, {
+        "text": "Gandhi.",
+        "level": 0
+    }, {
+        "text": "Preteens.",
+        "level": 0
+    }, {
+        "text": "Toni Morrison's vagina.",
+        "level": 4
+    }, {
+        "text": "Five-Dollar Footlongs&trade;.",
+        "level": 0
+    }, {
+        "text": "Land mines.",
+        "level": 0
+    }, {
+        "text": "A sea of troubles.",
+        "level": 0
+    }, {
+        "text": "A zesty breakfast burrito.",
+        "level": 0
+    }, {
+        "text": "Christopher Walken.",
+        "level": 0
+    }, {
+        "text": "Friction.",
+        "level": 0
+    }, {
+        "text": "Balls.",
+        "level": 0
+    }, {
+        "text": "Dental dams.",
+        "level": 0
+    }, {
+        "text": "A can of whoop-ass.",
+        "level": 0
+    }, {
+        "text": "A tiny horse.",
+        "level": 0
+    }, {
+        "text": "Waiting 'til marriage.",
+        "level": 0
+    }, {
+        "text": "Authentic Mexican cuisine.",
+        "level": 0
+    }, {
+        "text": "Genghis Khan.",
+        "level": 0
+    }, {
+        "text": "Old-people smell.",
+        "level": 0
+    }, {
+        "text": "Feeding Rosie O'Donnell.",
+        "level": 3
+    }, {
+        "text": "Pixelated bukkake.",
+        "level": 4
+    }, {
+        "text": "Friends with benefits.",
+        "level": 2
+    }, {
+        "text": "The token minority.",
+        "level": 3
+    }, {
+        "text": "The Tempur-Pedic&reg; Swedish Sleep System&trade;.",
+        "level": 3
+    }, {
+        "text": "A thermonuclear detonation.",
+        "level": 0
+    }, {
+        "text": "Take-backsies.",
+        "level": 0
+    }, {
+        "text": "The Rapture.",
+        "level": 3
+    }, {
+        "text": "A cooler full of organs.",
+        "level": 2
+    }, {
+        "text": "Sweet, sweet vengeance.",
+        "level": 0
+    }, {
+        "text": "RoboCop.",
+        "level": 0
+    }, {
+        "text": "Keanu Reeves.",
+        "level": 0
+    }, {
+        "text": "Drinking alone.",
+        "level": 0
+    }, {
+        "text": "Giving 110%.",
+        "level": 0
+    }, {
+        "text": "Flesh-eating bacteria.",
+        "level": 0
+    }, {
+        "text": "The American Dream.",
+        "level": 0
+    }, {
+        "text": "Taking off your shirt.",
+        "level": 0
+    }, {
+        "text": "Me time.",
+        "level": 1
+    }, {
+        "text": "A murder most foul.",
+        "level": 0
+    }, {
+        "text": "The inevitable heat death of the universe.",
+        "level": 0
+    }, {
+        "text": "The folly of man.",
+        "level": 0
+    }, {
+        "text": "That thing that electrocutes your abs.",
+        "level": 0
+    }, {
+        "text": "Cards Against Humanity.",
+        "level": 0
+    }, {
+        "text": "Fiery poops.",
+        "level": 0
+    }, {
+        "text": "Poor people.",
+        "level": 0
+    }, {
+        "text": "Edible underpants.",
+        "level": 1
+    }, {
+        "text": "Britney Spears at 55.",
+        "level": 0
+    }, {
+        "text": "All-you-can-eat shrimp for $4.99.",
+        "level": 0
+    }, {
+        "text": "Pooping back and forth. Forever.",
+        "level": 1
+    }, {
+        "text": "Fancy Feast&reg;.",
+        "level": 0
+    }, {
+        "text": "Jewish fraternities.",
+        "level": 1
+    }, {
+        "text": "Being a motherfucking sorcerer.",
+        "level": 0
+    }, {
+        "text": "Pulling out.",
+        "level": 4
+    }, {
+        "text": "Picking up girls at the abortion clinic.",
+        "level": 4
+    }, {
+        "text": "The homosexual agenda.",
+        "level": 3
+    }, {
+        "text": "The Holy Bible.",
+        "level": 3
+    }, {
+        "text": "Passive-agression.",
+        "level": 0
+    }, {
+        "text": "Ronald Reagan.",
+        "level": 0
+    }, {
+        "text": "Vehicular manslaughter.",
+        "level": 1
+    }, {
+        "text": "Nipple blades.",
+        "level": 3
+    }, {
+        "text": "Assless chaps.",
+        "level": 3
+    }, {
+        "text": "Full frontal nudity.",
+        "level": 3
+    }, {
+        "text": "Hulk Hogan.",
+        "level": 0
+    }, {
+        "text": "Daddy issues.",
+        "level": 0
+    }, {
+        "text": "The hardworking Mexican.",
+        "level": 2
+    }, {
+        "text": "Natalie Portman.",
+        "level": 0
+    }, {
+        "text": "Waking up half-naked in a Denny's parking lot.",
+        "level": 1
+    }, {
+        "text": "God.",
+        "level": 1
+    }, {
+        "text": "Sean Connery.",
+        "level": 0
+    }, {
+        "text": "Saxophone solos.",
+        "level": 0
+    }, {
+        "text": "Gloryholes.",
+        "level": 4
+    }, {
+        "text": "The World of Warcraft.",
+        "level": 0
+    }, {
+        "text": "Homeless people.",
+        "level": 2
+    }, {
+        "text": "Scalping.",
+        "level": 1
+    }, {
+        "text": "Darth Vader.",
+        "level": 0
+    }, {
+        "text": "Eating the last known bison.",
+        "level": 0
+    }, {
+        "text": "Guys who don't call.",
+        "level": 0
+    }, {
+        "text": "Hot Pockets&reg;.",
+        "level": 0
+    }, {
+        "text": "A time travel paradox.",
+        "level": 0
+    }, {
+        "text": "The milk man.",
+        "level": 0
+    }, {
+        "text": "Testicular torsion.",
+        "level": 2
+    }, {
+        "text": "Dropping a chandelier on your enemies and riding the rope up.",
+        "level": 0
+    }, {
+        "text": "World peace.",
+        "level": 0
+    }, {
+        "text": "A salty surprise.",
+        "level": 3
+    }, {
+        "text": "Poorly-timed Holocaust jokes.",
+        "level": 3
+    }, {
+        "text": "Smallpox blankets.",
+        "level": 2
+    }, {
+        "text": "Licking things to claim them as your own.",
+        "level": 0
+    }, {
+        "text": "The heart of a child.",
+        "level": 0
+    }, {
+        "text": "Robert Downey, Jr.",
+        "level": 0
+    }, {
+        "text": "Lockjaw.",
+        "level": 0
+    }, {
+        "text": "Eugenics.",
+        "level": 3
+    }, {
+        "text": "A good sniff.",
+        "level": 0
+    }, {
+        "text": "Friendly fire.",
+        "level": 0
+    }, {
+        "text": "The taint; the grundle; the fleshy fun-bridge.",
+        "level": 4
+    }, {
+        "text": "Wearing underwear inside-out to avoid doing laundry.",
+        "level": 0
+    }, {
+        "text": "Hurricane Katrina.",
+        "level": 0
+    }, {
+        "text": "Free samples.",
+        "level": 0
+    }, {
+        "text": "Jerking off into a pool of children's tears.",
+        "level": 4
+    }, {
+        "text": "A foul mouth.",
+        "level": 0
+    }, {
+        "text": "The glass ceiling.",
+        "level": 0
+    }, {
+        "text": "Republicans.",
+        "level": 0
+    }, {
+        "text": "Explosions.",
+        "level": 0
+    }, {
+        "text": "Michelle Obama's arms.",
+        "level": 0
+    }, {
+        "text": "Getting really high.",
+        "level": 0
+    }, {
+        "text": "Attitude.",
+        "level": 0
+    }, {
+        "text": "Sarah Palin.",
+        "level": 0
+    }, {
+        "text": "The &Uuml;bermensch.",
+        "level": 0
+    }, {
+        "text": "Altar boys.",
+        "level": 2
+    }, {
+        "text": "My soul.",
+        "level": 0
+    }, {
+        "text": "My sex life.",
+        "level": 1
+    }, {
+        "text": "Pedophiles.",
+        "level": 4
+    }, {
+        "text": "72 virgins.",
+        "level": 3
+    }, {
+        "text": "Pabst Blue Ribbon.",
+        "level": 0
+    }, {
+        "text": "Domino's&trade; Oreo&trade; Dessert Pizza.",
+        "level": 0
+    }, {
+        "text": "A snapping turtle biting the tip of your penis.",
+        "level": 4
+    }, {
+        "text": "The Blood of Christ.",
+        "level": 3
+    }, {
+        "text": "Half-assed foreplay.",
+        "level": 0
+    }, {
+        "text": "My collection of high-tech sex toys.",
+        "level": 3
+    }, {
+        "text": "A middle-aged man on roller skates.",
+        "level": 0
+    }, {
+        "text": "Bitches.",
+        "level": 0
+    }, {
+        "text": "Bill Nye the Science Guy.",
+        "level": 0
+    }, {
+        "text": "Italians.",
+        "level": 0
+    }, {
+        "text": "A windmill full of corpses.",
+        "level": 3
+    }, {
+        "text": "Adderall&trade;.",
+        "level": 0
+    }, {
+        "text": "Crippling debt.",
+        "level": 0
+    }, {
+        "text": "A stray pube.",
+        "level": 1
+    }, {
+        "text": "Prancing.",
+        "level": 0
+    }, {
+        "text": "Passing a kidney stone.",
+        "level": 1
+    }, {
+        "text": "A brain tumor.",
+        "level": 0
+    }, {
+        "text": "Leprosy.",
+        "level": 0
+    }, {
+        "text": "Puppies!",
+        "level": 0
+    }, {
+        "text": "Bees?",
+        "level": 0
+    }, {
+        "text": "Frolicking.",
+        "level": 0
+    }, {
+        "text": "Repression.",
+        "level": 1
+    }, {
+        "text": "Road head.",
+        "level": 4
+    }, {
+        "text": "A bag of magic beans.",
+        "level": 0
+    }, {
+        "text": "An asymmetric boob job.",
+        "level": 3
+    }, {
+        "text": "Dead parents.",
+        "level": 1
+    }, {
+        "text": "Public ridicule.",
+        "level": 0
+    }, {
+        "text": "A mating display.",
+        "level": 3
+    }, {
+        "text": "A mime having a stroke.",
+        "level": 0
+    }, {
+        "text": "Stephen Hawking talking dirty.",
+        "level": 0
+    }, {
+        "text": "African children.",
+        "level": 0
+    }, {
+        "text": "Mouth herpes.",
+        "level": 0
+    }, {
+        "text": "Overcompensation.",
+        "level": 0
+    }, {
+        "text": "Riding off into the sunset.",
+        "level": 0
+    }, {
+        "text": "Being on fire.",
+        "level": 0
+    }, {
+        "text": "Tangled Slinkys.",
+        "level": 0
+    }, {
+        "text": "Civilian casualties.",
+        "level": 0
+    }, {
+        "text": "Auschwitz.",
+        "level": 3
+    }, {
+        "text": "My genitals.",
+        "level": 4
+    }, {
+        "text": "Not reciprocating oral sex.",
+        "level": 4
+    }, {
+        "text": "Lactation.",
+        "level": 4
+    }, {
+        "text": "Being fabulous.",
+        "level": 0
+    }, {
+        "text": "Shaquille O'Neal's acting career.",
+        "level": 0
+    }, {
+        "text": "My relationship status.",
+        "level": 0
+    }, {
+        "text": "Asians who aren't good at math.",
+        "level": 2
+    }, {
+        "text": "Alcoholism.",
+        "level": 0
+    }, {
+        "text": "Incest.",
+        "level": 3
+    }, {
+        "text": "Grave robbing.",
+        "level": 0
+    }, {
+        "text": "Hope.",
+        "level": 0
+    }, {
+        "text": "8 oz. of sweet Mexican black-tar heroin.",
+        "level": 0
+    }, {
+        "text": "Kids with ass cancer.",
+        "level": 0
+    }, {
+        "text": "Winking at old people.",
+        "level": 0
+    }, {
+        "text": "The Jews.",
+        "level": 3
+    }, {
+        "text": "Justin Bieber.",
+        "level": 0
+    }, {
+        "text": "Doin' it in the butt.",
+        "level": 3
+    }, {
+        "text": "A lifetime of sadness.",
+        "level": 0
+    }, {
+        "text": "The Hamburglar.",
+        "level": 0
+    }, {
+        "text": "Swooping.",
+        "level": 0
+    }, {
+        "text": "Classist undertones.",
+        "level": 0
+    }, {
+        "text": "New Age music.",
+        "level": 0
+    }, {
+        "text": "Not giving a shit about the Third World.",
+        "level": 0
+    }, {
+        "text": "The Kool-Aid Man.",
+        "level": 0
+    }, {
+        "text": "A hot mess.",
+        "level": 0
+    }, {
+        "text": "Tentacle porn.",
+        "level": 3
+    }, {
+        "text": "Lumberjack fantasies.",
+        "level": 0
+    }, {
+        "text": "The gays.",
+        "level": 2
+    }, {
+        "text": "Scientology.",
+        "level": 0
+    }, {
+        "text": "Estrogen.",
+        "level": 1
+    }, {
+        "text": "GoGurt&reg;.",
+        "level": 0
+    }, {
+        "text": "Judge Judy.",
+        "level": 0
+    }, {
+        "text": "Dick fingers.",
+        "level": 3
+    }, {
+        "text": "Racism.",
+        "level": 1
+    }, {
+        "text": "Surprise sex!",
+        "level": 4
+    }, {
+        "text": "Police brutality.",
+        "level": 0
+    }, {
+        "text": "Passable transvestites.",
+        "level": 4
+    }, {
+        "text": "The Virginia Tech Massacre.",
+        "level": 3
+    }, {
+        "text": "When you fart and a little bit comes out.",
+        "level": 3
+    }, {
+        "text": "Oompa-Loompas.",
+        "level": 0
+    }, {
+        "text": "A fetus.",
+        "level": 0
+    }, {
+        "text": "Obesity.",
+        "level": 0
+    }, {
+        "text": "Tasteful sideboob.",
+        "level": 1
+    }, {
+        "text": "Hot people.",
+        "level": 0
+    }, {
+        "text": "BATMAN!!!",
+        "level": 0
+    }, {
+        "text": "Black people.",
+        "level": 1
+    }, {
+        "text": "A gassy antelope.",
+        "level": 0
+    }, {
+        "text": "Sexual tension.",
+        "level": 3
+    }, {
+        "text": "Third base.",
+        "level": 0
+    }, {
+        "text": "Racially-biased SAT questions.",
+        "level": 0
+    }, {
+        "text": "Porn stars.",
+        "level": 3
+    }, {
+        "text": "A Super Soaker&trade; full of cat pee.",
+        "level": 0
+    }, {
+        "text": "Muhammed (Praise Be Unto Him).",
+        "level": 0
+    }, {
+        "text": "Puberty.",
+        "level": 3
+    }, {
+        "text": "A disappointing birthday party.",
+        "level": 0
+    }, {
+        "text": "An erection that lasts longer than four hours.",
+        "level": 4
+    }, {
+        "text": "White privilege.",
+        "level": 0
+    }, {
+        "text": "Getting so angry that you pop a boner.",
+        "level": 3
+    }, {
+        "text": "Wifely duties.",
+        "level": 2
+    }, {
+        "text": "Two midgets shitting into a bucket.",
+        "level": 3
+    }, {
+        "text": "Queefing.",
+        "level": 4
+    }, {
+        "text": "Wiping her butt.",
+        "level": 3
+    }, {
+        "text": "Golden showers.",
+        "level": 3
+    }, {
+        "text": "Barack Obama.",
+        "level": 0
+    }, {
+        "text": "Nazis.",
+        "level": 0
+    }, {
+        "text": "A robust mongoloid.",
+        "level": 0
+    }, {
+        "text": "An M. Night Shyamalan plot twist.",
+        "level": 0
+    }, {
+        "text": "Getting drunk on mouthwash.",
+        "level": 0
+    }, {
+        "text": "Lunchables&trade;.",
+        "level": 0
+    }, {
+        "text": "Women in yogurt commercials.",
+        "level": 0
+    }, {
+        "text": "John Wilkes Booth.",
+        "level": 0
+    }, {
+        "text": "Powerful thighs.",
+        "level": 2
+    }, {
+        "text": "Mr. Clean, right behind you.",
+        "level": 0
+    }, {
+        "text": "Multiple stab wounds.",
+        "level": 0
+    }, {
+        "text": "Cybernetic enhancements.",
+        "level": 0
+    }, {
+        "text": "Serfdom.",
+        "level": 0
+    }, {
+        "text": "Kanye West.",
+        "level": 0
+    }, {
+        "text": "Women's suffrage.",
+        "level": 0
+    }, {
+        "text": "Children on leashes.",
+        "level": 2
+    }, {
+        "text": "Harry Potter erotica.",
+        "level": 3
+    }, {
+        "text": "The Dance of the Sugar Plum Fairy.",
+        "level": 0
+    }, {
+        "text": "Lance Armstrong's missing testicle.",
+        "level": 2
+    }, {
+        "text": "Parting the Red Sea.",
+        "level": 0
+    }, {
+        "text": "The Amish.",
+        "level": 0
+    }, {
+        "text": "Dead babies.",
+        "level": 3
+    }, {
+        "text": "Child beauty pageants.",
+        "level": 0
+    }, {
+        "text": "AXE Body Spray.",
+        "level": 0
+    }, {
+        "text": "Centaurs.",
+        "level": 0
+    }, {
+        "text": "Copping a feel.",
+        "level": 2
+    }, {
+        "text": "Grandma.",
+        "level": 0
+    }, {
+        "text": "Famine.",
+        "level": 0
+    }, {
+        "text": "The Trail of Tears.",
+        "level": 1
+    }, {
+        "text": "The miracle of childbirth.",
+        "level": 0
+    }, {
+        "text": "Finger painting.",
+        "level": 0
+    }, {
+        "text": "A monkey smoking a cigar.",
+        "level": 0
+    }, {
+        "text": "The Make-A-Wish&reg; Foundation.",
+        "level": 0
+    }, {
+        "text": "Anal beads.",
+        "level": 3
+    }, {
+        "text": "The Force.",
+        "level": 0
+    }, {
+        "text": "Kamikaze pilots.",
+        "level": 0
+    }, {
+        "text": "Dry heaving.",
+        "level": 0
+    }, {
+        "text": "Active listening.",
+        "level": 0
+    }, {
+        "text": "Ghosts.",
+        "level": 0
+    }, {
+        "text": "The Hustle.",
+        "level": 0
+    }, {
+        "text": "Peeing a little bit.",
+        "level": 1
+    }, {
+        "text": "Another goddamn vampire movie.",
+        "level": 0
+    }, {
+        "text": "Shapeshifters.",
+        "level": 0
+    }, {
+        "text": "The Care Bear Stare.",
+        "level": 0
+    }, {
+        "text": "Hot cheese.",
+        "level": 0
+    }, {
+        "text": "A mopey zoo lion.",
+        "level": 0
+    }, {
+        "text": "A defective condom.",
+        "level": 1
+    }, {
+        "text": "Teenage pregnancy.",
+        "level": 1
+    }, {
+        "text": "A Bop It&trade;.",
+        "level": 0
+    }, {
+        "text": "Expecting a burp and vomiting on the floor.",
+        "level": 0
+    }, {
+        "text": "Horrifying laser hair removal accidents.",
+        "level": 0
+    }, {
+        "text": "Boogers.",
+        "level": 0
+    }, {
+        "text": "Unfathomable stupidity.",
+        "level": 0
+    }, {
+        "text": "Breaking out into song and dance.",
+        "level": 0
+    }, {
+        "text": "Soup that is too hot.",
+        "level": 0
+    }, {
+        "text": "Morgan Freeman's voice.",
+        "level": 0
+    }, {
+        "text": "Getting naked and watching Nickelodeon.",
+        "level": 0
+    }, {
+        "text": "MechaHitler.",
+        "level": 0
+    }, {
+        "text": "Flying sex snakes.",
+        "level": 3
+    }, {
+        "text": "The true meaning of Christmas.",
+        "level": 0
+    }, {
+        "text": "My inner demons.",
+        "level": 0
+    }, {
+        "text": "Pac-Man uncontrollably guzzling cum.",
+        "level": 4
+    }, {
+        "text": "My vagina.",
+        "level": 4
+    }, {
+        "text": "A homoerotic volleyball montage.",
+        "level": 3
+    }, {
+        "text": "Actually taking candy from a baby.",
+        "level": 0
+    }, {
+        "text": "Crystal meth.",
+        "level": 0
+    }, {
+        "text": "Exactly what you'd expect.",
+        "level": 0
+    }, {
+        "text": "Natural male enhancement.",
+        "level": 2
+    }, {
+        "text": "Passive-aggressive Post-it notes.",
+        "level": 0
+    }, {
+        "text": "Inappropriate yodeling.",
+        "level": 0
+    }, {
+        "text": "Lady Gaga.",
+        "level": 0
+    }, {
+        "text": "The Little Engine That Could.",
+        "level": 0
+    }, {
+        "text": "Vigilante justice.",
+        "level": 0
+    }, {
+        "text": "A death ray.",
+        "level": 0
+    }, {
+        "text": "Poor life choices.",
+        "level": 0
+    }, {
+        "text": "A gentle caress of the inner thigh.",
+        "level": 1
+    }, {
+        "text": "Embryonic stem cells.",
+        "level": 0
+    }, {
+        "text": "Nicolas Cage.",
+        "level": 0
+    }, {
+        "text": "Firing a rifle into the air while balls deep in a squealing hog.",
+        "level": 4
+    }, {
+        "text": "Switching to Geico&reg;.",
+        "level": 0
+    }, {
+        "text": "The chronic.",
+        "level": 0
+    }, {
+        "text": "Erectile dysfunction.",
+        "level": 1
+    }, {
+        "text": "Home video of Oprah sobbing into a Lean Cuisine&reg;.",
+        "level": 0
+    }, {
+        "text": "A bucket of fish heads.",
+        "level": 0
+    }, {
+        "text": "50,000 volts straight to the nipples.",
+        "level": 0
+    }, {
+        "text": "Being fat and stupid.",
+        "level": 0
+    }, {
+        "text": "Hospice care.",
+        "level": 0
+    }, {
+        "text": "A pyramid of severed heads.",
+        "level": 1
+    }, {
+        "text": "Getting married, having a few kids, buying some stuff, retiring to Florida, and dying.",
+        "level": 0
+    }, {
+        "text": "A subscription to Men's Fitness.",
+        "level": 0
+    }, {
+        "text": "Crucifixion.",
+        "level": 1
+    }, {
+        "text": "A micropig wearing a tiny raincoat and booties.",
+        "level": 0
+    }, {
+        "text": "Some god-damn peace and quiet.",
+        "level": 0
+    }, {
+        "text": "Used panties.",
+        "level": 2
+    }, {
+        "text": "A tribe of warrior women.",
+        "level": 0
+    }, {
+        "text": "The penny whistle solo from \"My Heart Will Go On.\"",
+        "level": 0
+    }, {
+        "text": "An oversized lollipop.",
+        "level": 0
+    }, {
+        "text": "Helplessly giggling at the mention of Hutus and Tutsis.",
+        "level": 0
+    }, {
+        "text": "Not wearing pants.",
+        "level": 0
+    }, {
+        "text": "Consensual sex.",
+        "level": 1
+    }, {
+        "text": "Her Majesty, Queen Elizabeth II.",
+        "level": 0
+    }, {
+        "text": "Funky fresh rhymes.",
+        "level": 0
+    }, {
+        "text": "The art of seduction.",
+        "level": 0
+    }, {
+        "text": "The Devil himself.",
+        "level": 0
+    }, {
+        "text": "Advice from a wise, old black man.",
+        "level": 0
+    }, {
+        "text": "Destroying the evidence.",
+        "level": 0
+    }, {
+        "text": "The light of a billion suns.",
+        "level": 0
+    }, {
+        "text": "Wet dreams.",
+        "level": 2
+    }, {
+        "text": "Synergistic management solutions.",
+        "level": 0
+    }, {
+        "text": "Growing a pair.",
+        "level": 0
+    }, {
+        "text": "Silence.",
+        "level": 0
+    }, {
+        "text": "An M16 assault rifle.",
+        "level": 0
+    }, {
+        "text": "Poopy diapers.",
+        "level": 0
+    }, {
+        "text": "A live studio audience.",
+        "level": 0
+    }, {
+        "text": "The Great Depression.",
+        "level": 0
+    }, {
+        "text": "A spastic nerd.",
+        "level": 0
+    }, {
+        "text": "Rush Limbaugh's soft, shitty body.",
+        "level": 0
+    }, {
+        "text": "Tickling Sean Hannity, even after he tells you to stop.",
+        "level": 0
+    }, {
+        "text": "Stalin.",
+        "level": 0
+    }, {
+        "text": "Brown people.",
+        "level": 1
+    }, {
+        "text": "Rehab.",
+        "level": 0
+    }, {
+        "text": "Capturing Newt Gingrich and forcing him to dance in a monkey suit.",
+        "level": 1
+    }, {
+        "text": "Battlefield amputations.",
+        "level": 0
+    }, {
+        "text": "An uppercut.",
+        "level": 0
+    }, {
+        "text": "Shiny objects.",
+        "level": 0
+    }, {
+        "text": "An ugly face.",
+        "level": 1
+    }, {
+        "text": "Menstrual rage.",
+        "level": 2
+    }, {
+        "text": "A bitch slap.",
+        "level": 0
+    }, {
+        "text": "One trillion dollars.",
+        "level": 0
+    }, {
+        "text": "Chunks of dead prostitute.",
+        "level": 3
+    }, {
+        "text": "The entire Mormon Tabernacle Choir.",
+        "level": 0
+    }, {
+        "text": "The female orgasm.",
+        "level": 3
+    }, {
+        "text": "Extremely tight pants.",
+        "level": 0
+    }, {
+        "text": "The Boy Scouts of America.",
+        "level": 0
+    }, {
+        "text": "Stormtroopers.",
+        "level": 0
+    }, {
+        "text": "Throwing a virgin into a volcano.",
+        "level": 0
+    }, {
+        "text": "Getting in her pants, politely.",
+        "level": 4
+    }, {
+        "text": "Gladiatorial combat.",
+        "level": 0
+    }, {
+        "text": "Good grammar.",
+        "level": 0
+    }, {
+        "text": "Hipsters.",
+        "level": 0
+    }, {
+        "text": "Gandalf.",
+        "level": 0
+    }, {
+        "text": "Genetically engineered super-soldiers.",
+        "level": 0
+    }, {
+        "text": "George Clooney's musk.",
+        "level": 0
+    }, {
+        "text": "Getting abducted by Peter Pan.",
+        "level": 0
+    }, {
+        "text": "Eating an albino.",
+        "level": 0
+    }, {
+        "text": "Enormous Scandinavian women.",
+        "level": 0
+    }, {
+        "text": "Fabricating statistics.",
+        "level": 0
+    }, {
+        "text": "Finding a skeleton.",
+        "level": 0
+    }, {
+        "text": "Suicidal thoughts.",
+        "level": 0
+    }, {
+        "text": "Dancing with a broom.",
+        "level": 0
+    }, {
+        "text": "Deflowering the princess.",
+        "level": 4
+    }, {
+        "text": "Dorito breath.",
+        "level": 0
+    }, {
+        "text": "One thousand Slim Jims.",
+        "level": 0
+    }, {
+        "text": "My machete.",
+        "level": 0
+    }, {
+        "text": "Overpowering your father.",
+        "level": 0
+    }, {
+        "text": "Ominous background music.",
+        "level": 0
+    }, {
+        "text": "Media coverage.",
+        "level": 0
+    }, {
+        "text": "Making the penises kiss.",
+        "level": 4
+    }, {
+        "text": "Moral ambiguity.",
+        "level": 0
+    }, {
+        "text": "Medieval Times&reg; Dinner &amp; Tournament.",
+        "level": 0
+    }, {
+        "text": "Mad hacky-sack skills.",
+        "level": 0
+    }, {
+        "text": "Just the tip.",
+        "level": 2
+    }, {
+        "text": "Literally eating shit.",
+        "level": 0
+    }, {
+        "text": "Leveling up.",
+        "level": 0
+    }, {
+        "text": "Insatiable bloodlust.",
+        "level": 0
+    }, {
+        "text": "Historical revisionism.",
+        "level": 0
+    }, {
+        "text": "Jean-Claude Van Damme.",
+        "level": 0
+    }, {
+        "text": "Jafar.",
+        "level": 0
+    }, {
+        "text": "The boners of the elderly.",
+        "level": 4
+    }, {
+        "text": "The economy.",
+        "level": 0
+    }, {
+        "text": "Statistically validated stereotypes.",
+        "level": 0
+    }, {
+        "text": "Sudden Poop Explosion Disease.",
+        "level": 0
+    }, {
+        "text": "Slow motion.",
+        "level": 0
+    }, {
+        "text": "Space muffins.",
+        "level": 0
+    }, {
+        "text": "Sexual humiliation.",
+        "level": 3
+    }, {
+        "text": "Sexy Siamese twins.",
+        "level": 2
+    }, {
+        "text": "Santa Claus.",
+        "level": 0
+    }, {
+        "text": "Scrotum tickling.",
+        "level": 3
+    }, {
+        "text": "Ripping into a man's chest and pulling out his still-beating heart.",
+        "level": 0
+    }, {
+        "text": "Ryan Gosling riding in on a white horse.",
+        "level": 0
+    }, {
+        "text": "Quivering jowls.",
+        "level": 0
+    }, {
+        "text": "Revenge fucking.",
+        "level": 3
+    }, {
+        "text": "Pistol-whipping a hostage.",
+        "level": 0
+    }, {
+        "text": "Quiche.",
+        "level": 0
+    }, {
+        "text": "Zeus's sexual appetites.",
+        "level": 0
+    }, {
+        "text": "Words, words, words.",
+        "level": 0
+    }, {
+        "text": "Tripping balls.",
+        "level": 0
+    }, {
+        "text": "Being a busy adult with many important things to do.",
+        "level": 0
+    }, {
+        "text": "The four arms of Vishnu.",
+        "level": 0
+    }, {
+        "text": "The shambling corpse of Larry King.",
+        "level": 0
+    }, {
+        "text": "The hiccups.",
+        "level": 0
+    }, {
+        "text": "The harsh light of day.",
+        "level": 0
+    }, {
+        "text": "The Gulags.",
+        "level": 0
+    }, {
+        "text": "The Fanta&reg; girls.",
+        "level": 0
+    }, {
+        "text": "A big black dick.",
+        "level": 3
+    }, {
+        "text": "A beached whale.",
+        "level": 0
+    }, {
+        "text": "A low standard of living.",
+        "level": 0
+    }, {
+        "text": "A nuanced critique.",
+        "level": -1
+    }, {
+        "text": "A bloody pacifier.",
+        "level": -1
+    }, {
+        "text": "A crappy little hand.",
+        "level": -1
+    }, {
+        "text": "Shaft.",
+        "level": -1
+    }, {
+        "text": "Being a dinosaur.",
+        "level": -1
+    }, {
+        "text": "Beating your wives.",
+        "level": -1
+    }, {
+        "text": "Neil Patrick Harris.",
+        "level": -1
+    }, {
+        "text": "Coughing into a vagina.",
+        "level": -1
+    }, {
+        "text": "Carnies.",
+        "level": -1
+    }, {
+        "text": "Nubile slave boys.",
+        "level": -1
+    }, {
+        "text": "Bosnian chicken farmers.",
+        "level": 0
+    }, {
+        "text": "A web of lies.",
+        "level": -1
+    }, {
+        "text": "A rival dojo.",
+        "level": -1
+    }, {
+        "text": "A passionate Latino lover.",
+        "level": 0
+    }, {
+        "text": "Panty raids.",
+        "level": -1
+    }, {
+        "text": "Appreciative snapping.",
+        "level": -1
+    }, {
+        "text": "Apologizing.",
+        "level": -1
+    }, {
+        "text": "Clams.",
+        "level": -1
+    }, {
+        "text": "A woman scorned.",
+        "level": -1
+    }, {
+        "text": "Being awesome at sex.",
+        "level": -1
+    }, {
+        "text": "Spring break!",
+        "level": -1
+    }, {
+        "text": "Another shot of morphine.",
+        "level": -1
+    }, {
+        "text": "Dining with cardboard cutouts of the cast of \"Friends.\"",
+        "level": -1
+    }, {
+        "text": "A soulful rendition of \"Ol' Man River.\"",
+        "level": -1
+    }, {
+        "text": "Making a friend.",
+        "level": -1
+    }, {
+        "text": "A sweaty, panting leather daddy.",
+        "level": -1
+    }, {
+        "text": "Intimacy problems.",
+        "level": -1
+    }, {
+        "text": "The new Radiohead album.",
+        "level": -1
+    }, {
+        "text": "Pretty Pretty Princess Dress-Up Board Game&reg;.",
+        "level": -1
+    }, {
+        "text": "A man in yoga pants with a ponytail and feather earrings.",
+        "level": -1
+    }, {
+        "text": "An army of skeletons.",
+        "level": -1
+    }, {
+        "text": "A squadron of moles wearing aviator goggles.",
+        "level": -1
+    }, {
+        "text": "Beefin' over turf.",
+        "level": -1
+    }, {
+        "text": "The Google.",
+        "level": -1
+    }, {
+        "text": "Bullshit.",
+        "level": -1
+    }, {
+        "text": "A sweet spaceship.",
+        "level": -1
+    }, {
+        "text": "A 55-gallon drum of lube.",
+        "level": -1
+    }, {
+        "text": "Special musical guest, Cher.",
+        "level": -1
+    }, {
+        "text": "The human body.",
+        "level": -1
+    }, {
+        "text": "Mild autism.",
+        "level": -1
+    }, {
+        "text": "Nunchuck moves.",
+        "level": -1
+    }, {
+        "text": "Whipping a disobedient slave.",
+        "level": -1
+    }, {
+        "text": "An ether-soaked rag.",
+        "level": -1
+    }, {
+        "text": "Oncoming traffic.",
+        "level": -1
+    }, {
+        "text": "A dollop of sour cream.",
+        "level": -1
+    }, {
+        "text": "A slightly shittier parallel universe.",
+        "level": -1
+    }, {
+        "text": "My first kill.",
+        "level": -1
+    }, {
+        "text": "Boris the Soviet Love Hammer.",
+        "level": -1
+    }, {
+        "text": "The grey nutrient broth that sustains Mitt Romney.",
+        "level": -1
+    }, {
+        "text": "Tiny nipples.",
+        "level": -1
+    }, {
+        "text": "Power.",
+        "level": -1
+    }, {
+        "text": "Death by Steven Seagal.",
+        "level": -1
+    }, {
+        "text": "A Burmese tiger pit.",
+        "level": -1
+    }, {
+        "text": "Basic human decency.",
+        "level": -1
+    }, {
+        "text": "Grandpa's ashes.",
+        "level": -1
+    }, {
+        "text": "One Ring to rule them all.",
+        "level": -1
+    }, {
+        "text": "The day the birds attacked.",
+        "level": -1
+    }, {
+        "text": "Fetal alcohol syndrome.",
+        "level": -1
+    }, {
+        "text": "Graphic violence, adult language, and some sexual content.",
+        "level": -1
+    }, {
+        "text": "A bigger, blacker dick.",
+        "level": -1
+    }, {
+        "text": "The mere concept of Applebee's&reg;.",
+        "level": -1
+    }, {
+        "text": "A sad fat dragon with no friends.",
+        "level": -1
+    }, {
+        "text": "A pi&ntilde;ata full of scorpions.",
+        "level": -1
+    }, {
+        "text": "Existing.",
+        "level": -1
+    }, {
+        "text": "Hillary Clinton's death stare.",
+        "level": -1
+    }, {
+        "text": "Catastrophic urethral trauma.",
+        "level": -1
+    }, {
+        "text": "Double penetration.",
+        "level": -1
+    }, {
+        "text": "Daddy's belt.",
+        "level": -1
+    }, {
+        "text": "Swiftly achieving orgasm.",
+        "level": -1
+    }, {
+        "text": "Mooing.",
+        "level": -1
+    }, {
+        "text": "Rising from the grave.",
+        "level": -1
+    }, {
+        "text": "Subduing a grizzly bear and making her your wife.",
+        "level": -1
+    }, {
+        "text": "Some really fucked-up shit.",
+        "level": -1
+    }, {
+        "text": "Weapons-grade plutonium.",
+        "level": -1
+    }, {
+        "text": "All of this blood.",
+        "level": -1
+    }, {
+        "text": "Scrotal frostbite.",
+        "level": -1
+    }, {
+        "text": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+        "level": -1
+    }, {
+        "text": "The mixing of the races.",
+        "level": -1
+    }, {
+        "text": "Pumping out a baby every nine months.",
+        "level": -1
+    }, {
+        "text": "Tongue.",
+        "level": -1
+    }, {
+        "text": "Loki, the trickster god.",
+        "level": -1
+    }, {
+        "text": "Whining like a little bitch.",
+        "level": 0
+    }, {
+        "text": "Wearing an octopus for a hat.",
+        "level": -1
+    }, {
+        "text": "An unhinged ferris wheel rolling toward the sea.",
+        "level": -1
+    }, {
+        "text": "Finding Waldo.",
+        "level": -1
+    }, {
+        "text": "Upgrading homeless people to mobile hotspots.",
+        "level": -1
+    }, {
+        "text": "A magic hippie love cloud.",
+        "level": -1
+    }, {
+        "text": "Fuck Mountain.",
+        "level": -1
+    }, {
+        "text": "Living in a trashcan.",
+        "level": -1
+    }, {
+        "text": "The corporations.",
+        "level": -1
+    }, {
+        "text": "Getting hilariously gang-banged by the Blue Man Group.",
+        "level": -1
+    }, {
+        "text": "Jeff Goldblum.",
+        "level": -1
+    }, {
+        "text": "Survivor's guilt.",
+        "level": -1
+    }, {
+        "text": "Me.",
+        "level": -1
+    }, {
+        "text": "All my friends dying.",
+        "level": -1
+    }, {
+        "text": "Shutting the fuck up.",
+        "level": -1
+    }, {
+        "text": "An ass disaster.",
+        "level": -1
+    }, {
+        "text": "Some kind of bird-man.",
+        "level": -1
+    }, {
+        "text": "The entire Internet.",
+        "level": -1
+    }, {
+        "text": "Going around punching people.",
+        "level": -1
+    }, {
+        "text": "A boo-boo.",
+        "level": -1
+    }, {
+        "text": "Indescribable loneliness.",
+        "level": -1
+    }, {
+        "text": "Having sex on top of a pizza.",
+        "level": -1
+    }, {
+        "text": "Chugging a lava lamp.",
+        "level": -1
+    }, {
+        "text": "Warm, velvety muppet sex.",
+        "level": -1
+    }, {
+        "text": "Running naked through a mall, pissing and shitting everywhere.",
+        "level": -1
+    }, {
+        "text": "Nothing.",
+        "level": -1
+    }, {
+        "text": "Samuel L. Jackson.",
+        "level": -1
+    }, {
+        "text": "Self-flagellation.",
+        "level": -1
+    }, {
+        "text": "The systematic destruction of an entire people and their way of life.",
+        "level": -1
+    }, {
+        "text": "The Quesadilla Explosion Salad&trade; from Chili's&reg;.",
+        "level": -1
+    }, {
+        "text": "Reverse cowgirl.",
+        "level": -1
+    }, {
+        "text": "Vietnam flashbacks.",
+        "level": -1
+    }, {
+        "text": "Actually getting shot, for real.",
+        "level": -1
+    }, {
+        "text": "Not having sex.",
+        "level": -1
+    }, {
+        "text": "Cock.",
+        "level": -1
+    }, {
+        "text": "Dying alone and in pain.",
+        "level": -1
+    }, {
+        "text": "A cop who is also a dog.",
+        "level": -1
+    }, {
+        "text": "The way white people is.",
+        "level": -1
+    }, {
+        "text": "Gay aliens.",
+        "level": -1
+    }, {
+        "text": "The primal, ball-slapping sex your parents are having right now.",
+        "level": -1
+    }, {
+        "text": "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+        "level": -1
+    }, {
+        "text": "A lamprey swimming up the toilet and latching onto your taint.",
+        "level": -1
+    }, {
+        "text": "Slapping a racist old lady.",
+        "level": -1
+    }, {
+        "text": "A black male in his early 20s, last seen wearing a hoodie.",
+        "level": -1
+    }, {
+        "text": "Jumping out at people.",
+        "level": -1
+    }, {
+        "text": "Three months in the hole.",
+        "level": -1
+    }, {
+        "text": "Blood farts.",
+        "level": -1
+    }, {
+        "text": "The Land of Chocolate.",
+        "level": -1
+    }, {
+        "text": "A botched circumcision.",
+        "level": 0
+    }, {
+        "text": "My manservant, Claude.",
+        "level": -1
+    }, {
+        "text": "Vomiting mid-blowjob.",
+        "level": -1
+    }, {
+        "text": "Letting everyone down.",
+        "level": -1
+    }, {
+        "text": "Having shotguns for legs.",
+        "level": -1
+    }, {
+        "text": "Bill Clinton, naked on a bearskin rug with a saxophone.",
+        "level": -1
+    }, {
+        "text": "Mufasa's death scene.",
+        "level": -1
+    }, {
+        "text": "The Harlem Globetrotters.",
+        "level": -1
+    }, {
+        "text": "Demonic possession.",
+        "level": -1
+    }, {
+        "text": "Fisting.",
+        "level": -1
+    }, {
+        "text": "The thin veneer of situational causality that underlies porn.",
+        "level": -1
+    }, {
+        "text": "Girls that always be textin'.",
+        "level": -1
+    }, {
+        "text": "Blowing some dudes in an alley.",
+        "level": -1
+    }, {
+        "text": "A spontaneous conga line.",
+        "level": -1
+    }, {
+        "text": "A vagina that leads to another dimension.",
+        "level": -1
+    }, {
+        "text": "Disco fever.",
+        "level": -1
+    }, {
+        "text": "Getting your dick stuck in a Chinese finger trap with another dick.",
+        "level": -1
+    }, {
+        "text": "Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy.",
+        "level": -1
+    }, {
+        "text": "Sneezing, farting, and coming at the same time.",
+        "level": -1
+    }, {
+        "text": "Some douche with an acoustic guitar.",
+        "level": -1
+    }, {
+        "text": "Spending lots of money.",
+        "level": -1
+    }, {
+        "text": "Putting an entire peanut butter and jelly sandwich into the VCR.",
+        "level": -1
+    }, {
+        "text": "An unstoppable wave of fire ants.",
+        "level": -1
+    }, {
+        "text": "A greased-up Matthew McConaughey.",
+        "level": -1
+    }, {
+        "text": "Flying robots that kill people.",
+        "level": -1
+    }, {
+        "text": "Unlimited soup, salad, and breadsticks.",
+        "level": -1
+    }, {
+        "text": "Crying into the pages of Sylvia Plath.",
+        "level": -1
+    }, {
+        "text": "The moist, demanding chasm of his mouth.",
+        "level": -1
+    }, {
+        "text": "Filling every orifice with butterscotch pudding.",
+        "level": -1
+    }, {
+        "text": "An all-midget production of Shakespeare's <i>Richard III</i>.",
+        "level": -1
+    }, {
+        "text": "Screaming like a maniac.",
+        "level": -1
+    }, {
+        "text": "Not contributing to society in any meaningful way.",
+        "level": -1
+    }, {
+        "text": "A pile of squirming bodies.",
+        "level": -1
+    }, {
+        "text": "Buying the right pants to be cool.",
+        "level": -1
+    }, {
+        "text": "Roland the Farter, flatulist to the king.",
+        "level": -1
+    }, {
+        "text": "That ass.",
+        "level": -1
+    }, {
+        "text": "A surprising amount of hair.",
+        "level": -1
+    }, {
+        "text": "Eating Tom Selleck's mustache to gain his powers.",
+        "level": -1
+    }, {
+        "text": "Velcro&trade;.",
+        "level": -1
+    }, {
+        "text": "A PowerPoint presentation.",
+        "level": -1
+    }, {
+        "text": "Crazy opium eyes.",
+        "level": -1
+    }, {
+        "text": "10 Incredible Facts About the Anus.",
+        "level": -1
+    }, {
+        "text": "An interracial handshake.",
+        "level": -1
+    }, {
+        "text": "Moderate-to-severe joint pain.",
+        "level": -1
+    }, {
+        "text": "Finally finishing off the Indians.",
+        "level": -1
+    }, {
+        "text": "Sugar madness.",
+        "level": -1
+    }, {
+        "text": "Actual mutants with medical conditions and no superpowers.",
+        "level": -1
+    }, {
+        "text": "The secret formula for ultimate female satisfaction.",
+        "level": -1
+    }, {
+        "text": "The complex geopolitical quagmire that is the Middle East.",
+        "level": -1
+    }, {
+        "text": "Fucking a corpse back to life.",
+        "level": -1
+    }, {
+        "text": "Neil Diamond's Greatest Hits.",
+        "level": -1
+    }, {
+        "text": "Calculating every mannerism so as not to suggest homosexuality.",
+        "level": -1
+    }, {
+        "text": "Whatever a McRib&reg; is made of.",
+        "level": -1
+    }, {
+        "text": "No clothes on, penis in vagina.",
+        "level": -1
+    }, {
+        "text": "All the single ladies.",
+        "level": -1
+    }, {
+        "text": "Whispering all sexy.",
+        "level": -1
+    }, {
+        "text": "How awesome I am.",
+        "level": -1
+    }, {
+        "text": "Ass to mouth.",
+        "level": -1
+    }, {
+        "text": "Smoking crack, for instance.",
+        "level": -1
+    }, {
+        "text": "Falling into the toilet.",
+        "level": -1
+    }, {
+        "text": "A dance move that's just sex.",
+        "level": -1
+    }, {
+        "text": "The size of my penis.",
+        "level": -1
+    }, {
+        "text": "Some sort of Asian.",
+        "level": -1
+    }, {
+        "text": "A hopeless amount of spiders.",
+        "level": -1
+    }, {
+        "text": "Party Mexicans.",
+        "level": -1
+    }, {
+        "text": "Drinking responsibly.",
+        "level": -1
+    }, {
+        "text": "The safe word.",
+        "level": -1
+    }, {
+        "text": "Angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night.",
+        "level": -1
+    }, {
+        "text": "Bouncing up and down.",
+        "level": -1
+    }, {
+        "text": "Jizz.",
+        "level": -1
+    }, {
+        "text": "Ambiguous sarcasm.",
+        "level": -1
+    }, {
+        "text": "A shiny rock that proves I love you.",
+        "level": -1
+    }, {
+        "text": "Dem titties.",
+        "level": -1
+    }, {
+        "text": "My worthless son.",
+        "level": -1
+    }, {
+        "text": "Exploding pigeons.",
+        "level": -1
+    }, {
+        "text": "A Ugandan warlord.",
+        "level": -1
+    }, {
+        "text": "My sex dungeon.",
+        "level": -1
+    }, {
+        "text": "A kiss on the lips.",
+        "level": -1
+    }, {
+        "text": "Child Protective Services.",
+        "level": -1
+    }, {
+        "text": "A Native American who solves crimes by going into the spirit world.",
+        "level": -1
+    }, {
+        "text": "Doo-doo.",
+        "level": -1
+    }, {
+        "text": "The peaceful and nonthreatening rise of China.",
+        "level": -1
+    }, {
+        "text": "Sports.",
+        "level": -1
+    }, {
+        "text": "A fart.",
+        "level": -1
+    }, {
+        "text": "Unquestioning obedience.",
+        "level": -1
+    }, {
+        "text": "Three consecutive seconds of happiness.",
+        "level": -1
+    }, {
+        "text": "Grammar nazis who are also regular Nazis.",
+        "level": -1
+    }, {
+        "text": "Snorting coke off a clown's boner.",
+        "level": -1
+    }, {
+        "text": "Africa.",
+        "level": -1
+    }, {
+        "text": "Depression.",
+        "level": -1
+    }, {
+        "text": "A horse with no legs.",
+        "level": -1
+    }, {
+        "text": "The euphoric rush of strangling a drifter.",
+        "level": -1
+    }, {
+        "text": "Khakis.",
+        "level": -1
+    }, {
+        "text": "Interspecies marriage.",
+        "level": -1
+    }, {
+        "text": "A gender identity that can only be conveyed through slam poetry.",
+        "level": -1
+    }, {
+        "text": "Almost giving money to a homeless person.",
+        "level": -1
+    }, {
+        "text": "Stuff a child's face with Fun Dip&reg; until he starts having fun.",
+        "level": -1
+    }, {
+        "text": "What Jesus would do.",
+        "level": -1
+    }, {
+        "text": "A for-real lizard that spits blood from its eyes.",
+        "level": -1
+    }, {
+        "text": "Blackula.",
+        "level": -1
+    }, {
+        "text": "The tiniest shred of evidence that God is real.",
+        "level": -1
+    }, {
+        "text": "My dad's dumb fucking face.",
+        "level": -1
+    }, {
+        "text": "Prince Ali,<br>fabulous he,<br>Ali Ababwa.",
+        "level": -1
+    }, {
+        "text": "A manhole.",
+        "level": -1
+    }, {
+        "text": "A sex goblin with a carnival penis.",
+        "level": -1
+    }, {
+        "text": "A bunch of idiots playing a card game instead of interacting like normal humans.",
+        "level": -1
+    }, {
+        "text": "A sex comet from Neptune that plunges the Earth into eternal sexiness.",
+        "level": -1
+    }, {
+        "text": "Sharks with legs.",
+        "level": -1
+    }, {
+        "text": "Injecting speed into one arm and horse tranquilizer into the other.",
+        "level": -1
+    }, {
+        "text": "Lots and lots of abortions.",
+        "level": -1
+    }, {
+        "text": "Seeing things from Hitler's perspective",
+        "level": -1
+    }, {
+        "text": "Too much cocaine.",
+        "level": -1
+    }, {
+        "text": "Doing the right stuff to her nipples.",
+        "level": -1
+    }, {
+        "text": "Giant sperm from outer space.",
+        "level": -1
+    }, {
+        "text": "Oil!",
+        "level": -1
+    }, {
+        "text": "Ennui.",
+        "level": -1
+    }, {
+        "text": "A powered exoskeleton.",
+        "level": -1
+    }, {
+        "text": "A disappointing salad.",
+        "level": -1
+    }, {
+        "text": "Mom's new boyfriend.",
+        "level": -1
+    }, {
+        "text": "Unrelenting genital punishment.",
+        "level": -1
+    }, {
+        "text": "Denzel.",
+        "level": -1
+    }, {
+        "text": "The swim team, all at once.",
+        "level": -1
+    }, {
+        "text": "The eight gay warlocks who dictate the rules of fashion.",
+        "level": -1
+    }, {
+        "text": "Being nine years old.",
+        "level": -1
+    }, {
+        "text": "The unbelievable world of mushrooms.",
+        "level": -1
+    }, {
+        "text": "The Abercrombie &amp; Fitch lifestyle.",
+        "level": -1
+    }, {
+        "text": "Vegetarian options.",
+        "level": -1
+    }, {
+        "text": "My first period.",
+        "level": -1
+    }, {
+        "text": "Having been dead for a while.",
+        "level": -1
+    }, {
+        "text": "Backwards knees.",
+        "level": -1
+    }, {
+        "text": "Being paralyzed from the neck down.",
+        "level": -1
+    }, {
+        "text": "Seeing my village burned and my family slaughtered before my eyes.",
+        "level": -1
+    }, {
+        "text": "A zero-risk way to make $2,000 from home.",
+        "level": -1
+    }, {
+        "text": "A crazy little thing called love.",
+        "level": -1
+    }, {
+        "text": "Ancient Athenian boy-fucking",
+        "level": -1
+    }, {
+        "text": "Out-of-this-world bazongas.",
+        "level": -1
+    }, {
+        "text": "The ghost of Marlon Brando.",
+        "level": -1
+    }, {
+        "text": "The basic suffering that pervades all of existence.",
+        "level": -1
+    }, {
+        "text": "Being worshipped as the one true God.",
+        "level": -1
+    }, {
+        "text": "Figuring out how to have sex with a dolphin.",
+        "level": -1
+    }, {
+        "text": "All these decorative pillows.",
+        "level": -1
+    }, {
+        "text": "A mouthful of potato salad.",
+        "level": -1
+    }, {
+        "text": "Russian super-tuberculosis.",
+        "level": -1
+    }, {
+        "text": "A reason not to commit suicide.",
+        "level": -1
+    }, {
+        "text": "Going to a high school reunion on ketamine.",
+        "level": -1
+    }, {
+        "text": "The passage of time.",
+        "level": -1
+    }, {
+        "text": "Child support payments.",
+        "level": -1
+    }, {
+        "text": "Changing a person's mind with logic and facts.",
+        "level": -1
+    }, {
+        "text": "My boyfriend's stupid penis.",
+        "level": -1
+    }, {
+        "text": "The tiger that killed my father.",
+        "level": -1
+    }, {
+        "text": "Genghis Khan's DNA.",
+        "level": -1
+    }, {
+        "text": "Boring vaginal sex.",
+        "level": -1
+    }, {
+        "text": "40 acres and a mule.",
+        "level": -1
+    }, {
+        "text": "A whole new kind of porn.",
+        "level": -1
+    }, {
+        "text": "Slowly easing down onto a cucumber.",
+        "level": -1
+    }, {
+        "text": "Wearing glasses and sounding smart.",
+        "level": -1
+    }, {
+        "text": "AIDS monkeys.",
+        "level": -1
+    }, {
+        "text": "A team of lawyers.",
+        "level": -1
+    }, {
+        "text": "Getting drive-by shot.",
+        "level": -1
+    }, {
+        "text": "Not believing in giraffes.",
+        "level": -1
+    }, {
+        "text": "Anal fissures like you wouldn't believe.",
+        "level": -1
+    }, {
+        "text": "A giant powdery manbaby.",
+        "level": -1
+    }, {
+        "text": "Cutting off a flamingo's legs with garden shears.",
+        "level": -1
+    }, {
+        "text": "P.F. Chang himself.",
+        "level": -1
+    }, {
+        "text": "An uninterrupted history of imperialism and exploitation.",
+        "level": -1
+    }, {
+        "text": "A one-way ticket to Gary, Indiana.",
+        "level": -1
+    }, {
+        "text": "Daddy's credit card.",
+        "level": -1
+    }, {
+        "text": "September 11th, 2001.",
+        "level": -1
+    }, {
+        "text": "An unforgettable quincea&ntilde;era.",
+        "level": -1
+    }, {
+        "text": "Deez nuts.",
+        "level": -1
+    }, {
+        "text": "Social justice warriors with flamethrowers of compassion.",
+        "level": -1
+    }, {
+        "text": "Some shit-hot guitar licks.",
+        "level": -1
+    }, {
+        "text": "Butt stuff.",
+        "level": -1
+    }, {
+        "text": "Blackface.",
+        "level": -1
+    }, {
+        "text": "Blowjobs for everyone.",
+        "level": -1
+    }, {
+        "text": "Getting eaten alive by Guy Fieri.",
+        "level": -1
+    }, {
+        "text": "Western standards of beauty.",
+        "level": -1
+    }, {
+        "text": "Ejaculating live bees and the bees are angry.",
+        "level": -1
+    }, {
+        "text": "My dead son's baseball glove.",
+        "level": -1
+    }, {
+        "text": "Getting caught by the police and going to jail.",
+        "level": -1
+    }, {
+        "text": "A face full of horse cum.",
+        "level": -1
+    }, {
+        "text": "Free ice cream, yo.",
+        "level": -1
+    }, {
+        "text": "The white half of Barack Obama.",
+        "level": -1
+    }, {
+        "text": "The black half of Barack Obama.",
+        "level": -1
+    }, {
+        "text": "An inability to form meaningful relationships.",
+        "level": -1
+    }, {
+        "text": "A bass drop so huge it tears the starry vault asunder to reveal the face of God.",
+        "level": -1
+    }, {
+        "text": "Growing up chained to a radiator in perpetual darkness.",
+        "level": -1
+    }, {
+        "text": "Shitting all over the floor like a bad, bad girl.",
+        "level": -1
+    }, {
+        "text": "A buttload of candy.",
+        "level": -1
+    }, {
+        "text": "Sucking all the milk out of a yak.",
+        "level": -1
+    }, {
+        "text": "Bullets.",
+        "level": -1
+    }, {
+        "text": "A man who is so cool that he rides on a motorcycle.",
+        "level": -1
+    }, {
+        "text": "Sudden penis loss.",
+        "level": -1
+    }, {
+        "text": "Getting all offended.",
+        "level": -1
+    }, {
+        "text": "Crying and shitting and eating spaghetti.",
+        "level": -1
+    }, {
+        "text": "One unforgettable night of passion.",
+        "level": -1
+    }, {
+        "text": "Being popular and good at sports.",
+        "level": -1
+    }, {
+        "text": "Filling a man's anus with concrete.",
+        "level": -1
+    }, {
+        "text": "Two whales fucking the shit out of eachother.",
+        "level": -1
+    }, {
+        "text": "Cool, relateable cancer teens.",
+        "level": -1
+    }, {
+        "text": "The amount of gay I am.",
+        "level": -1
+    }, {
+        "text": "A possible Muslim.",
+        "level": -1
+    }, {
+        "text": "Unsheathing my massive horse cock.",
+        "level": -1
+    }, {
+        "text": "A bowl of gourds.",
+        "level": -1
+    }, {
+        "text": "The male gaze.",
+        "level": -1
+    }, {
+        "text": "The power of the Dark Side.",
+        "level": -1
+    }, {
+        "text": "Ripping a dog in half.",
+        "level": -1
+    }, {
+        "text": "A constant need for validation.",
+        "level": -1
+    }, {
+        "text": "Meaningless sex.",
+        "level": -1
+    }, {
+        "text": "Such a big boy.",
+        "level": -1
+    }, {
+        "text": "Throwing stones at a man until he dies.",
+        "level": -1
+    }, {
+        "text": "Cancer.",
+        "level": -1
+    }, {
+        "text": "Like a million alligators.",
+        "level": -1
+    }, {
+        "text": "Eating together like a god damn family for once.",
+        "level": -1
+    }, {
+        "text": "Cute boys.",
+        "level": -1
+    }, {
+        "text": "Pussy.",
+        "level": -1
+    }, {
+        "text": "Being a terrible mother.",
+        "level": -1
+    }, {
+        "text": "Never having sex again.",
+        "level": -1
+    }, {
+        "text": "A pizza guy who fucked up.",
+        "level": -1
+    }, {
+        "text": "A whole lotta woman.",
+        "level": -1
+    }, {
+        "text": "The all-new Nissan Pathfinder with 0.9% APR financing!",
+        "level": -1
+    }, {
+        "text": "A peyote-fueled vision quest.",
+        "level": -1
+    }, {
+        "text": "Kale.",
+        "level": -1
+    }, {
+        "text": "Breastfeeding a ten year old.",
+        "level": -1
+    }, {
+        "text": "Crippling social anxiety.",
+        "level": -1
+    }, {
+        "text": "Immortality cream.",
+        "level": -1
+    }, {
+        "text": "Texas.",
+        "level": -1
+    }, {
+        "text": "Teaching a girl how to handjob the penis.",
+        "level": -1
+    }, {
+        "text": "A turd.",
+        "level": -1
+    }, {
+        "text": "Shapes and colors.",
+        "level": -1
+    }, {
+        "text": "Whatever you wish, mother.",
+        "level": -1
+    }, {
+        "text": "The haunting stare of an Iraqi child.",
+        "level": -1
+    }, {
+        "text": "Robots who just want to party.",
+        "level": -1
+    }, {
+        "text": "A self-microwaving burrito.",
+        "level": -1
+    }, {
+        "text": "Forgetting grandma's first name.",
+        "level": -1
+    }, {
+        "text": "Our new Buffalo Chicken Dippers&reg;!",
+        "level": -1
+    }, {
+        "text": "Treasures beyond your wildest dreams.",
+        "level": -1
+    }, {
+        "text": "Getting shot out of a cannon.",
+        "level": -1
+    }, {
+        "text": "The sweet song of sword against and the braying of mighty war beasts.",
+        "level": -1
+    }, {
+        "text": "Walking into a glass door.",
+        "level": -1
+    }, {
+        "text": "The color \"puce\".",
+        "level": -1
+    }, {
+        "text": "Every ounce of charisma left in Mick Jagger's tired body.",
+        "level": -1
+    }, {
+        "text": "The eighth graders.",
+        "level": -1
+    }, {
+        "text": "Setting my balls on fire and cartwheeling to Ohio.",
+        "level": -1
+    }, {
+        "text": "The dentist.",
+        "level": -1
+    }, {
+        "text": "Gwyneth Paltrow's opinions.",
+        "level": -1
+    }, {
+        "text": "Turning the rivers red with the blood of infidels.",
+        "level": -1
+    }, {
+        "text": "Rabies.",
+        "level": -1
+    }, {
+        "text": "Important news about Taylor Swift.",
+        "level": -1
+    }, {
+        "text": "Ejaculating inside another man's wife.",
+        "level": -1
+    }, {
+        "text": "Owls, the perfect predator.",
+        "level": -1
+    }, {
+        "text": "Being John Malkovich.",
+        "level": -1
+    }, {
+        "text": "Bathing in moonsblood and dancing around the ancient oak.",
+        "level": -1
+    }, {
+        "text": "An oppressed people with a vibrant culture.",
+        "level": -1
+    }, {
+        "text": "An overwhelming variety of cheeses.",
+        "level": -1
+    }, {
+        "text": "Reading the entire End-User License Agreement.",
+        "level": -1
+    }, {
+        "text": "Morpheus.",
+        "level": -1
+    }, {
+        "text": "Peeing into a girl's butt to make a baby.",
+        "level": -1
+    }, {
+        "text": "Generally having no idea of what's going on.",
+        "level": -1
+    }, {
+        "text": "No longer finding any Cards Against Humanity card funny.",
+        "level": -1
+    }],
+    "info": {
+      "Base": {
+            "name": "Base Set",
+            "black": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89],
+            "white": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459]
+        },
+        "CAHe1": {
+            "name": "The First Expansion",
+            "black": [90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109],
+            "white": [460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539],
+            "icon": 1
+        },
+        "CAHe2": {
+            "name": "The Second Expansion",
+            "black": [110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134],
+            "white": [540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614],
+            "icon": 2
+        },
+        "CAHe3": {
+            "name": "The Third Expansion",
+            "black": [135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159],
+            "white": [615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689],
+            "icon": 3
+        },
+        "CAHe4": {
+            "name": "The Fourth Expansion",
+            "black": [160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189],
+            "white": [690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759],
+            "icon": 4
+        },
+        "CAHe5": {
+            "name": "The Fifth Expansion",
+            "black": [190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214],
+            "white": [760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834],
+            "icon": 5
+        },
+        "CAHe6": {
+            "name": "The Sixth Expansion",
+            "black": [215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239],
+            "white": [835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909],
+            "icon": 6
+        },
+        "order": ["Base", "CAHe1", "CAHe2", "CAHe3", "CAHe4", "CAHe5", "CAHe6"]}
 }
