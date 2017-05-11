@@ -4,8 +4,13 @@ body{
   background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/62105/vintage-wood.jpg') no-repeat center top;
 }
 .wrapper{
-  width:189px;
+  width:219px;
   margin:0 auto;
+  position:relative;
+}
+.wrapper2{
+  width:455px;
+  margin:50px auto;
   position:relative;
 }
 
@@ -75,33 +80,21 @@ body:hover .card{
   color:#000;
   font-size:25px;
 }
-
-
-
-.details {
-  text-decoration:none;
-  color:inherit;
-  display:block;
-  position:absolute;
-  text-align:left;
-  width:100px;
-  bottom:5px;
-  left:5px;
-  font-size:11px;
-  line-height:13px;
-  font-weight:100;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  -o-user-select:none;
-  user-select:none;
-  cursor:pointer;
-  z-index:10;
+.score{
+  margin: 0 auto;
+  text-align: center;
 }
 
-
-
-
+.scoreCard {
+  text-align: center;
+  display:inline-block;
+  position:relative;
+  width:189px;
+  height:200px;
+}
+#cardText{
+  margin: 0 auto;
+}
 
 @keyframes impatient {
   0%{

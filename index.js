@@ -2,7 +2,6 @@
 /* eslint-disable no-console */
 const moment = require('moment');
 const AWS = require('aws-sdk');
-const decks = require('./data/decks.json');
 const baseDeck = require('./data/base.json');
 const names = require('./data/names.json');
 
@@ -44,7 +43,10 @@ function inDynamo(inputKey) {
 function getGameObject(gameName) {
   const gameObj = {
     deck: baseDeck,
-    score: { team_a: 0, team_b: 0 },
+    score: {
+      team_a: 0,
+      team_b: 0,
+    },
   };
 
   if (gameName) {
@@ -55,24 +57,6 @@ function getGameObject(gameName) {
   }
 }
 
-function getDecks() {
-  const availableDecks = [];
-  Object.keys(decks.info).forEach((key) => {
-    if (decks.info[key].name) {
-      availableDecks.push(decks.info[key].name);
-    }
-  });
-  return availableDecks;
-}
-
-function getGames() {
-  // TODO: look for a specific gameName
-  dynamodb.scan({
-    TableName,
-  }, (err, data) => {
-    return err;
-  });
-}
 
 function shuffle(input) {
   const array = input;
