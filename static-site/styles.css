@@ -4,15 +4,22 @@ body{
   background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/62105/vintage-wood.jpg') no-repeat center top;
 }
 .wrapper{
-  width:189px;
+  width:219px;
   margin:0 auto;
+  position:relative;
+}
+.wrapper2{
+  width:682px;
+  margin:50px auto;
   position:relative;
 }
 
 body:hover .card{
   will-change: transform;
 }
-
+.shadow {
+  box-shadow: 0 5px 20px;
+}
 .card {
   display:inline-block;
   position:relative;
@@ -69,39 +76,54 @@ body:hover .card{
   color:#EEF;
   font-size:25px;
 }
+
+
+.black {
+  background-color:#000;
+  color:#EEF;
+  cursor:default;
+  box-shadow:inset 0 2px 1px #556,-1px 3px 4px hsla(300,10%,10%,0.9)
+}
+
+.black:hover {
+  background-color:#000;
+  color:#EEF;
+  box-shadow:inset 0 2px 1px #556,-1px 3px 4px hsla(300,10%,10%,0.9);
+  -webkit-transform:rotateX(0deg) translate(0px,0px);
+  -moz-transform:rotateX(0deg) translate(0px,0px);
+  -ms-transform:rotateX(0deg) translate(0px,0px);
+  -o-transform:rotateX(0deg) translate(0px,0px);
+  transform:rotateX(0deg) translate(0px,0px)
+}
+
+.black:after {
+  background-color:#EEF;
+  color:#000
+}
+
+
 .white.back:after{
   content:"Cards Against Style Sheets";
   background-color:none;
   color:#000;
   font-size:25px;
 }
-
-
-
-.details {
-  text-decoration:none;
-  color:inherit;
-  display:block;
-  position:absolute;
-  text-align:left;
-  width:100px;
-  bottom:5px;
-  left:5px;
-  font-size:11px;
-  line-height:13px;
-  font-weight:100;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  -o-user-select:none;
-  user-select:none;
-  cursor:pointer;
-  z-index:10;
+.score{
+  margin: 0 auto;
+  text-align: center;
 }
 
-
-
-
+.scoreCard {
+  text-align: center;
+  display:inline-block;
+  position:relative;
+  width:189px;
+  height:200px;
+  cursor: pointer;
+}
+#cardText{
+  margin: 0 auto;
+}
 
 @keyframes impatient {
   0%{

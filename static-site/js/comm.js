@@ -1,7 +1,11 @@
 // Via Chirp
 
-var pingInterval = 20000
 const apiURL = 'https://phvya9wj0j.execute-api.us-east-1.amazonaws.com/game/charadesagainsthumanity';
+
+let score = {
+  teamA: 0,
+  teamB: 0,
+};
 
 $(document).ready(() => {
   console.log("Developed on AWS. https://github.com/devgorilla");
@@ -9,39 +13,53 @@ $(document).ready(() => {
     console.log('click');
     newCard();
   });
+
+  $("#teamA").click((ev) => {
+    console.log('teamA');
+
+    score.teamA +=1;
+    $("#scoreA").html(score.teamA);
+  });
+
+  $("#teamB").click((ev) => {
+    console.log('teamB');
+
+    score.teamB +=1;
+    $("#scoreB").html(score.teamB);
+  });
+
+  window.timerActive = false;
+
+  $("#timer").click((ev) => {
+    var maxTime = 30;
+
+    if (!window.timerActive) {
+      document.getElementById("time").innerText = maxTime;
+      countDown(maxTime);
+    } else {
+      clearInterval(window.timer);
+    }
+    // Flip the boolean
+    window.timerActive = !window.timerActive;
+  });
 });
+
+function countDown(i) {
+  window.timer = setInterval(function () {
+      document.getElementById("time").innerText = i;
+      i--;
+      if (i < 0 ) {
+        clearInterval(timer);
+        alert('Time\'s up yo!');
+      }
+  }, 1000);
+}
 
 function newCard() {
   httpGetAsync(apiURL, (results) => {
-      const newHtml = `<p>${results}</p>`
-    $("#cardText").html(newHtml);
+    const cardText = `<p>${results}</p>`
+    $("#cardText").html(cardText);
   })
-}
-
-function httpPostAsync(url, message) {
-const http = new XMLHttpRequest()
-  /*
-  const message = {
-    decks: ["base"],
-    level: 4,
-    score: {
-      team_a: 0,
-      team_b: 0
-    }, // game_name
-  }
-  httpPostAsync(apiURL, message);
-  */
-
-  var params = JSON.stringify(message)
-  http.open("POST", url, true);
-  http.setRequestHeader("Content-type", "application/json")
-  http.onreadystatechange = () => {
-    console.log(http.status);
-    if (http.readyState == 4 && http.status == 200) {
-      //TODO Make #chirpText value clear after Post
-    }
-  }
-  http.send(params)
 }
 
 function httpGetAsync(theUrl, callback) {
