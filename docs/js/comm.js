@@ -34,9 +34,11 @@ $(document).ready(() => {
     var maxTime = 30;
 
     if (!window.timerActive) {
+      document.getElementById("timer").style.color = 'BEBEBE';
       document.getElementById("time").innerText = maxTime;
       countDown(maxTime);
     } else {
+      document.getElementById("timer").style.color = 'fff';
       clearInterval(window.timer);
     }
     // Flip the boolean
