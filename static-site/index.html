@@ -4,21 +4,29 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="white card" id="cardText">
+        <div class="white card shadow" id="cardText">
             <p style="font-size:32px;">A HAPPY HOUR CARD GAME</p>
-        </div>
-    </div>
+        </div></div>
     <div class="wrapper2">
-        <div class="white card scoreCard" id="teamA">
+        <div class="white card scoreCard shadow" id="teamA">
             <h3>Team A</h3>
             <p id="scoreA" class="score">0</p>
         </div>
-        <div class="white card scoreCard" id="teamB">
+        <div class="countdown shadow" id="countdown">
+            <div class="countdown__fill" id="ticker"></div>
+            <div class="countdown__digit" id="seconds">00</div>
+        </div>
+        <div class="white card scoreCard shadow" id="teamB">
             <h3>Team B</h3>
             <p id="scoreB" class="score">0</p>
         </div>
+    </div>
+
+
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript"></script>
     <script src="./js/comm.js"></script>
+    <script src ="//hammerjs.github.io/dist/hammer.min.js" type="text/javascript"></script>
+    <script src ="./js/clock.js" type="text/javascript"></script>
     <!-- css via https://codepen.io/mostlymatthew/pen/WbgrgB -->
 </body>
 </html>

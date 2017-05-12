@@ -1,11 +1,19 @@
-const decks = require('./data/decks.json');
-const names = require('./data/names.json');
+const deck = require('./data/base.json');
 
 
+var out = [];
+deck.forEach((card) => {
+  if (card.level > 0) {
+    console.log(card);
+    out.push(card)
+  }
+})
 
-
+const fs = require('fs')
+fs.writeFile('data/base.json',JSON.stringify(out))
 
 /*
+
 
 var out = [];
 var i = 0
