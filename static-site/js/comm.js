@@ -27,7 +27,33 @@ $(document).ready(() => {
     score.teamB +=1;
     $("#scoreB").html(score.teamB);
   });
+
+  window.timerActive = false;
+
+  $("#timer").click((ev) => {
+    var maxTime = 30;
+
+    if (!window.timerActive) {
+      document.getElementById("time").innerText = maxTime;
+      countDown(maxTime);
+    } else {
+      clearInterval(window.timer);
+    }
+    // Flip the boolean
+    window.timerActive = !window.timerActive;
+  });
 });
+
+function countDown(i) {
+  window.timer = setInterval(function () {
+      document.getElementById("time").innerText = i;
+      i--;
+      if (i < 0 ) {
+        clearInterval(timer);
+        alert('Time\'s up yo!');
+      }
+  }, 1000);
+}
 
 function newCard() {
   httpGetAsync(apiURL, (results) => {
